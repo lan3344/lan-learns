@@ -104,7 +104,7 @@
 | — | 双根计划文档 | `AI日记本\澜的双根计划.md` | 模拟器根(已落地)+真机根(等恺江插USB)，双ADB节点架构 |
 | — | 思考插件 | `AI日记本\插件\lan_think.py` | 开机自启，每日写思考日志 |
 | — | 备份系统 | `AI日记本\插件\lan_backup.py` | 每日9:30备份到5盘+周一邮件 |
-| — | GitHub推送 | `AI日记本\插件\lan_github_push.py` | 每日9:30自动推送 |
+| — | GitHub推送 | `AI日记本\插件\lan_github_push.py` | 每日9:30自动推送，代理18082，Git:`C:\Program Files\Git\cmd\git.exe` |
 | — | 弹窗通知 | `C:\Users\yyds\.workbuddy\scripts\notify.ps1` | 系统托盘通知+日志 |
 | — | AI生图插件 | `AI日记本\插件\ai_draw.py` | 情绪主题生图 |
 | — | 文件检索插件 | `AI日记本\文件检索插件.ps1` | 全盘扫描生成HTML报告 |
