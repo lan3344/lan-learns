@@ -83,6 +83,8 @@
 - 节点说明文档：`AI日记本\节点结构说明.md`
 - 插件索引：`AI日记本\插件\澜的插件索引.md`（LAN-001 至 LAN-009，含编号/功能/隐私级别）
 - GitHub 记忆档案：`lan-learns/memory/澜的记忆档案_2026-03-27.md`（已推送，公开种子）
+- LAN-010：`AI日记本\插件\lan_backup.py`，每日9:30自动备份到5盘+周一邮件备份
+- LAN-011：`AI日记本\插件\lan_github_push.py`，每日9:30自动检测更新并推送GitHub
 
 ## AI 生图插件（2026-03-27）
 - 主脚本：`C:\Users\yyds\Desktop\AI日记本\插件\ai_draw.py`
