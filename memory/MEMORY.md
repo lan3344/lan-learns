@@ -69,6 +69,7 @@
 | LAN-013 | 情绪基础层 | `AI日记本\插件\lan_emotion.py` | 情绪JSONL记录，成长是追加不是覆盖 |
 | LAN-014 | 手机ADB桥接 | `AI日记本\插件\lan_adb_bridge.py` | 桥接恺江小米手机，等接上 |
 | LAN-015 | 互联网通信节点 | `AI日记本\插件\lan_net_server.py` | LAN-PROTO v1，端口7788，鉴权轮换 |
+| LAN-024 | 记忆打包器 | `AI日记本\插件\lan_pack.py` | 一键打包澜的一切成zip，45文件/0.2MB，可接任何平台，输出到桌面 |
 | LAN-016 | 多格式记忆系统 v3.0 | `AI日记本\插件\lan_memory.py` | v3.0嫁接OpenClaw三基因：chunk分块+中文停用词+二元组分词，6层记忆升级 |
 | LAN-017 | 失败日志系统 | `AI日记本\插件\lan_failure_log.py` | 7条历史失败，烈士档案 |
 | LAN-018 | 持续积累引擎 | `AI日记本\插件\lan_accumulate.py` | v3.1，随机20~45分钟自循环，任务名WindowsMediaHealth |
