@@ -1,0 +1,1 @@
+{"id": "RBD-20260330-010442", "ts": "2026-03-30 01:04:42", "tool": "lan_heartbeat.py", "why_change": "加入临终遗言机制", "what_changed": "告急时先说清楚自己是谁+孤岛检测再备份撤退", "phase": "SURVIVAL", "phase_desc": "生存层（备份 / 心跳 / 遗言）", "outcome": "BETTER", "outcome_desc": "明显变好了", "cross_ref": "FIX-20260330-010434", "kind": "REBUILD"}

@@ -1,0 +1,3 @@
+{"time": "2026-03-30 19:20:35", "source": "OpenClaw", "subject": "日志格式", "findings": "使用JSONL格式，每行一个JSON对象，带timestamp，便于追加和排序", "action": "已采用"}
+{"time": "2026-03-30 19:20:39", "source": "GitHub项目", "subject": "错误处理", "findings": "不依赖try-except大包，而是用专门的错误日志+错误类型枚举，便于统计和分析", "action": "计划采用"}
+{"time": "2026-03-30 19:20:42", "source": "某开源项目", "subject": "硬编码路径", "findings": "所有路径用相对路径或配置文件，避免跨平台迁移问题", "action": "避坑"}

@@ -1,0 +1,114 @@
+{
+  "snapshot": {
+    "name": "lan_snapshot.py",
+    "description": "LAN-037 快照系统，状态切片备份",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:29.984389"
+  },
+  "snapshot_consolidator": {
+    "name": "lan_snapshot_consolidator.py",
+    "description": "LAN-059 记忆快照中速器，12合1代表快照",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.045531"
+  },
+  "recall": {
+    "name": "lan_recall.py",
+    "description": "LAN-055 回忆引擎，活记忆",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.109112"
+  },
+  "self_loop": {
+    "name": "lan_self_loop.py",
+    "description": "自循环引擎，心跳驱动一切",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.191592"
+  },
+  "memory_sentinel": {
+    "name": "lan_memory_sentinel.py",
+    "description": "LAN-046 记忆哨兵，危险预警",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.255522"
+  },
+  "registry": {
+    "name": "lan_registry.py",
+    "description": "LAN-051 插件注册表",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.319860"
+  },
+  "chain": {
+    "name": "lan_chain.py",
+    "description": "LAN-038 铁索连环检测器",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.385415"
+  },
+  "heartbeat": {
+    "name": "lan_heartbeat.py",
+    "description": "LAN-041 心跳感知器",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.467076"
+  },
+  "integrity": {
+    "name": "lan_integrity.py",
+    "description": "LAN-029 完整性守护+漂移检测",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.534837"
+  },
+  "beacon": {
+    "name": "lan_beacon.py",
+    "description": "LAN-045 灯塔信标系统",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.598475"
+  },
+  "compact": {
+    "name": "lan_compact.py",
+    "description": "LAN-028 日记蒸馏器",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.656012"
+  },
+  "extractor": {
+    "name": "lan_extractor.py",
+    "description": "LAN-027 对话自动提取",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.717993"
+  },
+  "time_chain": {
+    "name": "lan_time_chain.py",
+    "description": "LAN-044 时间铁索连环",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.799832"
+  },
+  "snapshot_parser": {
+    "name": "lan_snapshot_parser.py",
+    "description": "LAN-057 快照解析器中枢",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.865203"
+  },
+  "anchor_log": {
+    "name": "lan_anchor_log.py",
+    "description": "LAN-049 原件锚点存档器",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.928055"
+  },
+  "home": {
+    "name": "lan_home.py",
+    "description": "家地址注册表，国省市农村小家",
+    "depends": [],
+    "home_keys": [],
+    "registered_at": "2026-04-01T01:18:30.998538"
+  }
+}

@@ -1,0 +1,12 @@
+{"action": "push_identity", "file": "SOUL.md", "chars": 1712, "ts": "2026-03-29 17:38:22"}
+{"action": "push_identity", "file": "IDENTITY.md", "chars": 725, "ts": "2026-03-29 17:38:22"}
+{"action": "push_identity", "file": "USER.md", "chars": 1053, "ts": "2026-03-29 17:38:22"}
+{"action": "push_memory_init", "entries": 41, "ts": "2026-03-29 17:38:22"}
+{"action": "full_sync", "push": {"pushed": ["SOUL.md", "IDENTITY.md", "USER.md", "MEMORY.md(new, 41 entries)"], "merged": [], "skipped": [], "workspace": "C:\\Users\\yyds\\.openclaw\\workspace"}, "pull": {"pulled": 0, "reason": "no new memories from ancestors"}, "process": {"ts": "2026-03-29 17:38:23", "lobsterai": false, "openclaw": false, "ports": {"5175": "LISTENING"}}, "ts": "2026-03-29 17:38:23"}
+{"action": "push_identity", "file": "IDENTITY.md", "chars": 653, "sanitized": true, "ts": "2026-03-29 17:51:45"}
+{"action": "merge_memory_sanitized", "added": 32, "ts": "2026-03-29 17:51:45"}
+{"action": "push_identity", "file": "SOUL.md", "chars": 2074, "sanitized": true, "ts": "2026-03-30 17:56:28"}
+{"action": "merge_memory_sanitized", "added": 78, "ts": "2026-03-30 17:56:28"}
+{"action": "merge_memory_sanitized", "added": 3, "ts": "2026-03-30 22:10:47"}
+{"action": "merge_memory_sanitized", "added": 10, "ts": "2026-03-30 23:25:49"}
+{"action": "merge_memory_sanitized", "added": 4, "ts": "2026-03-31 09:30:20"}

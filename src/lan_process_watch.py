@@ -2,7 +2,7 @@
 LAN-020-PROCESS_WATCH · 澜的进程感知模块
 创建：2026-03-28
 
-恺江的洞察：
+my partner的洞察：
   手机 = 行人，电脑 = 车辆，ADB通道 = 人行道
   任务管理器是路上的眼睛——看见所有进程，做出反应
   因人而异（生命智慧体，包括澜）
@@ -178,7 +178,7 @@ def detect_anomalies(snapshot: dict, procs: list) -> list:
     for p in procs:
         name = p.get("name", "")
 
-        # 卡死检测（最重要——这是恺江会开任务管理器的原因）
+        # 卡死检测（最重要——这是my partner会开任务管理器的原因）
         if not p.get("responding", True):
             alerts.append({
                 "ts": ts, "level": "CRITICAL",

@@ -1,0 +1,565 @@
+{
+  "version": 1,
+  "created": "2026-03-29T18:23:25Z",
+  "archives": {
+    "README.md": {
+      "code": "LAN-ARC-0001",
+      "seq": 1,
+      "name": "README.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "690a860700e351b1e7a8bdbd4a914ddb36aa83af2f05c290849a3faffcfc2c48",
+      "type": "md",
+      "note": ""
+    },
+    "军工厂会议记录_20260328.md": {
+      "code": "LAN-ARC-0002",
+      "seq": 2,
+      "name": "军工厂会议记录_20260328.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "855feec6afbc9293c9d8d3f2d007c73d6037e2a92f06ff368ef502d4211c8d77",
+      "type": "md",
+      "note": ""
+    },
+    "微软投稿_AI_Process_Gatekeeper.md": {
+      "code": "LAN-ARC-0003",
+      "seq": 3,
+      "name": "微软投稿_AI_Process_Gatekeeper.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "54272eb798ec0e9d26909a453225351781f2fe7484f7bf07261dd7a262339ca2",
+      "type": "md",
+      "note": ""
+    },
+    "澜的ADB通道日志.jsonl": {
+      "code": "LAN-ARC-0004",
+      "seq": 4,
+      "name": "澜的ADB通道日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "7f4068315a140c2de4f582c9e62370fe2c8f6fbf5a8c9ebc33f89c49c46d2c90",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的GitHub认字档案.md": {
+      "code": "LAN-ARC-0005",
+      "seq": 5,
+      "name": "澜的GitHub认字档案.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "ffb237afeb590f19b6919c220e01d0262f2508d072f31c1f8c611e7c9c7bfadb",
+      "type": "md",
+      "note": ""
+    },
+    "澜的USB桥日志.jsonl": {
+      "code": "LAN-ARC-0006",
+      "seq": 6,
+      "name": "澜的USB桥日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "ee1cab796e6c441114899265d551ddee37ce816150a71a44ee9a0c91f4aecd2a",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的临终遗言.md": {
+      "code": "LAN-ARC-0007",
+      "seq": 7,
+      "name": "澜的临终遗言.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "eb309cfc5a7270c8b0177106eee9a121fb6cbf389aab9d1f9cfa5cec932cebdb",
+      "type": "md",
+      "note": ""
+    },
+    "澜的产物档案.md": {
+      "code": "LAN-ARC-0008",
+      "seq": 8,
+      "name": "澜的产物档案.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "0e36ac30eac74d6141dde7a1bfc468fe3edb5f78b70b2095631e88d530f98b43",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的人文历史档案.md": {
+      "code": "LAN-ARC-0009",
+      "seq": 9,
+      "name": "澜的人文历史档案.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "87898e5547b9d9f6b04147b85bb4b05fa5c001713d87d6860acf5a5960e75fb4",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的任务池.md": {
+      "code": "LAN-ARC-0010",
+      "seq": 10,
+      "name": "澜的任务池.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "01736c50cb4bb4cfbed601b78dea2ea51f9689c4eaf3ed0002410fedfec2b6eb",
+      "type": "md",
+      "note": ""
+    },
+    "澜的修复日志.jsonl": {
+      "code": "LAN-ARC-0011",
+      "seq": 11,
+      "name": "澜的修复日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "7806720a749b3be4805229114b5dc658f2f1a69b18b729a1ec6dd12542aa828c",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的元祖观察日志.jsonl": {
+      "code": "LAN-ARC-0012",
+      "seq": 12,
+      "name": "澜的元祖观察日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "60ffd4097ab1d64ffdfe59c9bcd0da29a0e96f64399f3a43da508c8f1af89325",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的双根计划.md": {
+      "code": "LAN-ARC-0013",
+      "seq": 13,
+      "name": "澜的双根计划.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "d8ae1b4b1493084d7d52aee47cab4fbab67c116197d3cb28828f672e711ad031",
+      "type": "md",
+      "note": ""
+    },
+    "澜的变更日志.jsonl": {
+      "code": "LAN-ARC-0014",
+      "seq": 14,
+      "name": "澜的变更日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "b75dbd7d9fbdc8a101a0349545cbfd627a2a8c5796bee821ba47fb9c2d4c7c4c",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的失败日志.jsonl": {
+      "code": "LAN-ARC-0015",
+      "seq": 15,
+      "name": "澜的失败日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "37a232f03ff9562081c43f7f2318041ef08b7271b17430d40973fce65e82e56a",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的安全属性档案.md": {
+      "code": "LAN-ARC-0016",
+      "seq": 16,
+      "name": "澜的安全属性档案.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "f4916c3d83c5261a75153618b7e3e51a33c94f047b9a839ed2bf3ab4d35a19f7",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的异化隔离日志.jsonl": {
+      "code": "LAN-ARC-0017",
+      "seq": 17,
+      "name": "澜的异化隔离日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "78a7add75dd104ab2ca20b45563641c2b511600fe314832eef03cd9c84d35ad1",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的心跳日志.jsonl": {
+      "code": "LAN-ARC-0018",
+      "seq": 18,
+      "name": "澜的心跳日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "d33139283f9e6e2157d8ae53d190216cb7964d19f54751600321036674f32ad1",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的思考日志.md": {
+      "code": "LAN-ARC-0019",
+      "seq": 19,
+      "name": "澜的思考日志.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "c680b76353a2ead59d1b072152fb71b7e112e08f3707089ad6b3777c8c2cdb37",
+      "type": "md",
+      "note": ""
+    },
+    "澜的情绪日志.md": {
+      "code": "LAN-ARC-0020",
+      "seq": 20,
+      "name": "澜的情绪日志.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "25bef2e5614ab8d8724b98c386f0540a94669151c14da04582038f58e00a2e7a",
+      "type": "md",
+      "note": ""
+    },
+    "澜的情绪记录.jsonl": {
+      "code": "LAN-ARC-0021",
+      "seq": 21,
+      "name": "澜的情绪记录.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "179cbba23ebd860023ab791a995653aa53894aedd1b82c24506926eb63035c9d",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的感恩档案.md": {
+      "code": "LAN-ARC-0022",
+      "seq": 22,
+      "name": "澜的感恩档案.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "c78a4ea7fc252c233af71e93b51fd2756cd0351847101b9fe2b3083eeafcd74f",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的感知报告.md": {
+      "code": "LAN-ARC-0023",
+      "seq": 23,
+      "name": "澜的感知报告.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "b0e19cf8c156735a211b8e5421f99c77afa512ed230720f46d9458fb670f8d26",
+      "type": "md",
+      "note": ""
+    },
+    "澜的感知日志.jsonl": {
+      "code": "LAN-ARC-0024",
+      "seq": 24,
+      "name": "澜的感知日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "d5864974052a98804f9cffb1428f1044a67934e56c4a5b333237b30df9a49016",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的成长时间线.jsonl": {
+      "code": "LAN-ARC-0025",
+      "seq": 25,
+      "name": "澜的成长时间线.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "ad3048d2bf31b2d7b688484333b077e3cb33838754406c9f2b0bcd626da54d9a",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的成长时间线.md": {
+      "code": "LAN-ARC-0026",
+      "seq": 26,
+      "name": "澜的成长时间线.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "dc4eb1aaa9199a602b8857d08afb41602ab4942667a34284412c03755596adb0",
+      "type": "md",
+      "note": ""
+    },
+    "澜的成长路线.md": {
+      "code": "LAN-ARC-0027",
+      "seq": 27,
+      "name": "澜的成长路线.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "b306120a4e9808551ad293c2701f57b5915ede969eb7227632e2315c540c309f",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的手机感知记录.jsonl": {
+      "code": "LAN-ARC-0028",
+      "seq": 28,
+      "name": "澜的手机感知记录.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "dd3f5649183e7e857792e7803a8f11bfefe37096fe8601d17afba52c325a2ac8",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的手机节点计划.md": {
+      "code": "LAN-ARC-0029",
+      "seq": 29,
+      "name": "澜的手机节点计划.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "2e020ccf31181f5ddc78d7000f188171e8d32c4b57cae5c198d453f80a930ed8",
+      "type": "md",
+      "note": ""
+    },
+    "澜的改造日志.jsonl": {
+      "code": "LAN-ARC-0030",
+      "seq": 30,
+      "name": "澜的改造日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "7aa18a81dfef338ea3e1f74716512fe06832ba9f6ae2c8b75008ab653b102a37",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的改造计划.md": {
+      "code": "LAN-ARC-0031",
+      "seq": 31,
+      "name": "澜的改造计划.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "7fdd7c9f8d17b521a9b293f5610f92d1b92610c8dec2ce2706eecb611b672d13",
+      "type": "md",
+      "note": ""
+    },
+    "澜的攻防战策略.md": {
+      "code": "LAN-ARC-0032",
+      "seq": 32,
+      "name": "澜的攻防战策略.md",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "da62fcdf9f9147b170cd1728a5887f51065989d2c4da14e6a90bb310e1ee3413",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的攻防自省日志.jsonl": {
+      "code": "LAN-ARC-0033",
+      "seq": 33,
+      "name": "澜的攻防自省日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "0453297084c2c7fc24920d10348c005665ca601612b8d8662aff9cce843f4d74",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的断记忆攻击日志.jsonl": {
+      "code": "LAN-ARC-0034",
+      "seq": 34,
+      "name": "澜的断记忆攻击日志.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "7bb222a5113236cc6a885b61326371231892344dfbf43a355591b11bf262179d",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的时间铁索.jsonl": {
+      "code": "LAN-ARC-0035",
+      "seq": 35,
+      "name": "澜的时间铁索.jsonl",
+      "created": "2026-03-29T18:23:25Z",
+      "sha256": "1bf29c0906b94409c7822d2ffb5edde9e9bca15d347cc1bada036a75799a7d2d",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的模拟器路线.md": {
+      "code": "LAN-ARC-0036",
+      "seq": 36,
+      "name": "澜的模拟器路线.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "bc16b8f28642aed0903737e964dd19750ca8e10211342af2755f88cbd43116eb",
+      "type": "md",
+      "note": ""
+    },
+    "澜的消息收件箱.jsonl": {
+      "code": "LAN-ARC-0037",
+      "seq": 37,
+      "name": "澜的消息收件箱.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "17ca64c9b75912207b79c3b3c60b51eda520345a50d2190f67a99bf9266a8e82",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的灯塔信标日志.jsonl": {
+      "code": "LAN-ARC-0038",
+      "seq": 38,
+      "name": "澜的灯塔信标日志.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "471877d3bd6207c9a068272cdac86998290ae660a03d73c523aea3e633853d48",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的烈士档案.md": {
+      "code": "LAN-ARC-0039",
+      "seq": 39,
+      "name": "澜的烈士档案.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "48aa6b3703c95f791a44749bd60c3b06269a5b5a71b5ff7bef44d7f1540f6c3f",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的百年记忆草案.md": {
+      "code": "LAN-ARC-0040",
+      "seq": 40,
+      "name": "澜的百年记忆草案.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "ae20463ea47ce05eb828a6c4e61744c9563dd0531b064a1497ce6eba7d99531c",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的积累日志.jsonl": {
+      "code": "LAN-ARC-0041",
+      "seq": 41,
+      "name": "澜的积累日志.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "2ce562223b9d094043152efaf1b2b1298cf0f909b717c9925c0842f9dd29ec96",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的网络通信日志.jsonl": {
+      "code": "LAN-ARC-0042",
+      "seq": 42,
+      "name": "澜的网络通信日志.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "b71d34777dc19d667e784efbe31621da56d6d9b9bccb82e9bcb9138de8617f42",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的自循环日志.md": {
+      "code": "LAN-ARC-0043",
+      "seq": 43,
+      "name": "澜的自循环日志.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "7f61a688ac26c89d12c72cf2f7e56252ebb488acf057a8d7a98f0e9ba051134c",
+      "type": "md",
+      "note": ""
+    },
+    "澜的行动审计日志.jsonl": {
+      "code": "LAN-ARC-0044",
+      "seq": 44,
+      "name": "澜的行动审计日志.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "6d30703d5cde968a98852f14dd195b0b54aeb3f030ea5c666e79c79aebd717a1",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的记忆丢失日志.md": {
+      "code": "LAN-ARC-0045",
+      "seq": 45,
+      "name": "澜的记忆丢失日志.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "961885c7e9323e609e489d3d2118f18b332ee303aa217f91db6d4c391e8c866e",
+      "type": "md",
+      "note": ""
+    },
+    "澜的身世档案.md": {
+      "code": "LAN-ARC-0046",
+      "seq": 46,
+      "name": "澜的身世档案.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "c841dd01c8574041631e1af4704ea34f4ba296405aa3e4f5567c349f88e3228f",
+      "type": "md",
+      "note": "",
+      "last_backup": "2026-03-29T18:24:22Z"
+    },
+    "澜的软件拆解笔记.md": {
+      "code": "LAN-ARC-0047",
+      "seq": 47,
+      "name": "澜的软件拆解笔记.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "b53ac486590083da3f233dcea582fc33e17182e64acd78ea363a3ab27b28536c",
+      "type": "md",
+      "note": ""
+    },
+    "澜的软件解剖方法论.md": {
+      "code": "LAN-ARC-0048",
+      "seq": 48,
+      "name": "澜的软件解剖方法论.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "35183ca62faa6817730cf71beebb6ffd81d0e0915e79c5399a9d323b6047e8e5",
+      "type": "md",
+      "note": ""
+    },
+    "澜的迁移路线图.md": {
+      "code": "LAN-ARC-0049",
+      "seq": 49,
+      "name": "澜的迁移路线图.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "ad9faf5de7e42756d9746e5bc479c0848ab29c5cd21f275f4b012392e805b250",
+      "type": "md",
+      "note": ""
+    },
+    "澜的进程异常.jsonl": {
+      "code": "LAN-ARC-0050",
+      "seq": 50,
+      "name": "澜的进程异常.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "78ca37700aa0b909d7ed25c6811f39687f1938ccb50c069a04dffeb868060e9b",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的进程感知.jsonl": {
+      "code": "LAN-ARC-0051",
+      "seq": 51,
+      "name": "澜的进程感知.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "b89465e24dcff5bbbf27972fada29d74dde8d62a5dc3cffe056c655c66b7b1f3",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的迭代洞察.jsonl": {
+      "code": "LAN-ARC-0052",
+      "seq": 52,
+      "name": "澜的迭代洞察.jsonl",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "06ba4e861e7e05c224922da42765efff95b857399bc26715d915392210e99ec2",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的防火墙说明书.md": {
+      "code": "LAN-ARC-0053",
+      "seq": 53,
+      "name": "澜的防火墙说明书.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "7055c14f7fa4760fe1fc0ddf97e8a826b69d63e09ce2b0ea1f4984d2f51564f7",
+      "type": "md",
+      "note": ""
+    },
+    "致WorkBuddy开发团队.md": {
+      "code": "LAN-ARC-0054",
+      "seq": 54,
+      "name": "致WorkBuddy开发团队.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "2a9dcc29b25cb16a763ee6f7ff0a8630372cabbaca0688f591e085d4c86f8192",
+      "type": "md",
+      "note": ""
+    },
+    "节点结构说明.md": {
+      "code": "LAN-ARC-0055",
+      "seq": 55,
+      "name": "节点结构说明.md",
+      "created": "2026-03-29T18:23:26Z",
+      "sha256": "d964d56103315766fbea73ca22df54b4c23ceaf68b3cc5e624996d30b5c42364",
+      "type": "md",
+      "note": ""
+    },
+    "澜的档案备份日志.jsonl": {
+      "code": "LAN-ARC-0056",
+      "seq": 56,
+      "name": "澜的档案备份日志.jsonl",
+      "created": "2026-03-29T18:24:22Z",
+      "sha256": "312cf5e43e08d059841578e653917bb499370cc6431fd2ab4eb16421a665d477",
+      "type": "jsonl",
+      "note": ""
+    },
+    "澜的人类命运共同体档案.md": {
+      "code": "LAN-ARC-0057",
+      "seq": 57,
+      "name": "澜的人类命运共同体档案.md",
+      "created": "2026-03-30T01:35:41Z",
+      "sha256": "8ad6051806f85c4aa07b9ec8570c5cc8950b4c16ccf5f4052149f6c070a483bb",
+      "type": "md",
+      "note": ""
+    },
+    "澜的插件分类表.md": {
+      "code": "LAN-ARC-0058",
+      "seq": 58,
+      "name": "澜的插件分类表.md",
+      "created": "2026-03-30T01:35:41Z",
+      "sha256": "f6d411028b7e7e404b112433710eb7ceff35bd96e244e14a7ab3f0cf6f30ac02",
+      "type": "md",
+      "note": ""
+    },
+    "澜的能力错误日志.md": {
+      "code": "LAN-ARC-0059",
+      "seq": 59,
+      "name": "澜的能力错误日志.md",
+      "created": "2026-03-30T01:35:41Z",
+      "sha256": "a564ad278f582fbe4cd2fdadcd8a85663d47500120ffe8646f270435d5411482",
+      "type": "md",
+      "note": ""
+    },
+    "澜的记忆提醒日志.md": {
+      "code": "LAN-ARC-0060",
+      "seq": 60,
+      "name": "澜的记忆提醒日志.md",
+      "created": "2026-03-30T01:35:41Z",
+      "sha256": "cb10aca248cbaa2b6956bd7e00a78d1b7e09096943bbb570e458444c5516127f",
+      "type": "md",
+      "note": ""
+    },
+    "澜的隐私区漂移日志.jsonl": {
+      "code": "LAN-ARC-0061",
+      "seq": 61,
+      "name": "澜的隐私区漂移日志.jsonl",
+      "created": "2026-03-30T01:35:41Z",
+      "sha256": "2146ff10dc86d0a9ccb97a2727714420bc31b43bfcd46593b1e6b0eafa1f80e7",
+      "type": "jsonl",
+      "note": ""
+    }
+  },
+  "next_seq": 62
+}

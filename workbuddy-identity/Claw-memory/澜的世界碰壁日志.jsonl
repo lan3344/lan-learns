@@ -1,0 +1,16 @@
+{"timestamp": "2026-03-30T17:57:19.957370", "service": "GITHUB", "type": "RATE_LIMIT", "message": "测试限流", "extra": {"limit": 5000, "remaining": 0}}
+{"timestamp": "2026-03-30T17:57:19.958281", "service": "EMAIL", "type": "ERROR", "message": "测试退信", "extra": {"email": "test@example.com"}}
+{"timestamp": "2026-03-30T17:57:19.959280", "service": "NET", "type": "TIMEOUT", "message": "测试超时", "extra": {"endpoint": "103.232.212.91:7788"}}
+{"timestamp": "2026-03-30T17:57:32.203165", "service": "GITHUB", "type": "RATE_LIMIT", "message": "测试限流", "extra": {"limit": 5000, "remaining": 0}}
+{"timestamp": "2026-03-30T17:57:32.204356", "service": "EMAIL", "type": "ERROR", "message": "测试退信", "extra": {"email": "test@example.com"}}
+{"timestamp": "2026-03-30T17:57:32.205005", "service": "NET", "type": "TIMEOUT", "message": "测试超时", "extra": {"endpoint": "103.232.212.91:7788"}}
+{"timestamp": "2026-03-30T17:57:47.432739", "service": "GITHUB", "type": "RATE_LIMIT", "message": "测试限流", "extra": {"limit": 5000, "remaining": 0}}
+{"timestamp": "2026-03-30T17:57:47.434282", "service": "EMAIL", "type": "ERROR", "message": "测试退信", "extra": {"email": "test@example.com"}}
+{"timestamp": "2026-03-30T17:57:47.435460", "service": "NET", "type": "TIMEOUT", "message": "测试超时", "extra": {"endpoint": "103.232.212.91:7788"}}
+{"timestamp": "2026-03-30T17:57:55.062487", "service": "GITHUB", "type": "RATE_LIMIT", "message": "测试限流", "extra": {"limit": 5000, "remaining": 0}}
+{"timestamp": "2026-03-30T17:57:55.063529", "service": "EMAIL", "type": "ERROR", "message": "测试退信", "extra": {"email": "test@example.com"}}
+{"timestamp": "2026-03-30T17:57:55.064225", "service": "NET", "type": "TIMEOUT", "message": "测试超时", "extra": {"endpoint": "103.232.212.91:7788"}}
+{"timestamp": "2026-03-30T18:04:47.994561", "service": "GITHUB", "type": "RATE_LIMIT", "message": "测试限流", "extra": {"limit": 5000, "remaining": 0}}
+{"timestamp": "2026-03-30T18:04:47.995987", "service": "EMAIL", "type": "ERROR", "message": "测试退信", "extra": {"email": "test@example.com"}}
+{"timestamp": "2026-03-30T18:04:47.996618", "service": "NET", "type": "TIMEOUT", "message": "测试超时", "extra": {"endpoint": "103.232.212.91:7788"}}
+{"timestamp": "2026-03-31T09:30:15.930977", "service": "GITHUB", "type": "ERROR", "message": "GitHub push 失败: fatal: unable to access 'https://github.com/lan3344/lan-learns.git/': Failed to connect to github.com port 443 via 127.0.0.1 after 2077 ms: Could not connect to server", "extra": {"commit_msg": "memory: auto-sync 2026-03-31", "proxy": "http://127.0.0.1:18082"}}

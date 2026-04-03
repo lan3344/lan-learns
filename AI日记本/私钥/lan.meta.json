@@ -1,0 +1,7 @@
+{
+  "created": "2026-03-29T16:37:51.339420",
+  "algorithm": "Ed25519",
+  "pub_fingerprint": "9a61c82fdd06fc88",
+  "enc_algo": "Fernet(PBKDF2-SHA256, 480000 iter)",
+  "note": "私钥明文从未落盘。加密密码由机器指纹+生日推导，无需人工记忆。"
+}

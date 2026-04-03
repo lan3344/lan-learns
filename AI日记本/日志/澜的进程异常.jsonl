@@ -1,0 +1,309 @@
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: Doubao (20429.6%)", "pid": 28636, "process": "Doubao", "cpu": 20429.6}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy (10103.0%)", "pid": 16160, "process": "WorkBuddy", "cpu": 10103.0}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy (5600.5%)", "pid": 6436, "process": "WorkBuddy", "cpu": 5600.5}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: GoGoJumpVPN (2963.5%)", "pid": 41200, "process": "GoGoJumpVPN", "cpu": 2963.5}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: Trae (1944.4%)", "pid": 27760, "process": "Trae", "cpu": 1944.4}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: photolaunch (1895.1%)", "pid": 30328, "process": "photolaunch", "cpu": 1895.1}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: Weixin (1713.7%)", "pid": 35852, "process": "Weixin", "cpu": 1713.7}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: photolaunch (1707.8%)", "pid": 37016, "process": "photolaunch", "cpu": 1707.8}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wpscloudsvr (1633.0%)", "pid": 6988, "process": "wpscloudsvr", "cpu": 1633.0}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: photolaunch (1209.4%)", "pid": 39916, "process": "photolaunch", "cpu": 1209.4}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: audiodg (1206.4%)", "pid": 2796, "process": "audiodg", "cpu": 1206.4}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: ArmouryCrate.UserSessionHelper (1189.0%)", "pid": 18924, "process": "ArmouryCrate.UserSessionHelper", "cpu": 1189.0}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: explorer (1155.2%)", "pid": 26400, "process": "explorer", "cpu": 1155.2}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: photolaunch (1138.5%)", "pid": 23728, "process": "photolaunch", "cpu": 1138.5}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy (965.9%)", "pid": 13756, "process": "WorkBuddy", "cpu": 965.9}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy (583.2 MB)", "pid": 13756, "process": "WorkBuddy", "mem_mb": 583.2}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: OVRServer_x64 (913.8%)", "pid": 14772, "process": "OVRServer_x64", "cpu": 913.8}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: Doubao (809.0%)", "pid": 28612, "process": "Doubao", "cpu": 809.0}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (747.8%)", "pid": 19312, "process": "wallpaper64", "cpu": 747.8}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy (741.2%)", "pid": 15276, "process": "WorkBuddy", "cpu": 741.2}
+{"ts": "2026-03-28T13:25:17", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: Ld9BoxHeadless (648.8%)", "pid": 40976, "process": "Ld9BoxHeadless", "cpu": 648.8}
+{"ts": "2026-03-28T13:25:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#98 (102.0%)", "pid": 25388, "process": "svchost#98", "cpu": 102.0}
+{"ts": "2026-03-28T13:25:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 41884, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-28T13:26:47", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wuaucltcore (113.0%)", "pid": 12472, "process": "wuaucltcore", "cpu": 113.0}
+{"ts": "2026-03-28T14:06:15", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (148.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 148.0}
+{"ts": "2026-03-28T15:43:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: GoGoJumpVPN (41.0%)", "pid": 41200, "process": "GoGoJumpVPN", "cpu": 41.0}
+{"ts": "2026-03-28T18:14:01", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#49 (119.0%)", "pid": 6880, "process": "svchost#49", "cpu": 119.0}
+{"ts": "2026-03-28T18:14:01", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (78.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 78.0}
+{"ts": "2026-03-28T18:14:01", "level": "WARN", "type": "high_mem", "msg": "高内存占用: Memory Compression (819.6 MB)", "pid": 4748, "process": "Memory Compression", "mem_mb": 819.6}
+{"ts": "2026-03-28T18:41:15", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (43.0%)", "pid": 49020, "process": "WmiPrvSE#2", "cpu": 43.0}
+{"ts": "2026-03-28T20:00:43", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (94.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 94.0}
+{"ts": "2026-03-28T20:33:57", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (43.0%)", "pid": 25012, "process": "WmiPrvSE#2", "cpu": 43.0}
+{"ts": "2026-03-28T20:57:12", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (77.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 77.0}
+{"ts": "2026-03-28T20:57:12", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (62.0%)", "pid": 4952, "process": "svchost#36", "cpu": 62.0}
+{"ts": "2026-03-28T21:48:38", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (177.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 177.0}
+{"ts": "2026-03-28T21:48:38", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (108.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 108.0}
+{"ts": "2026-03-28T21:48:38", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: powershell#2 (96.0%)", "pid": 45352, "process": "powershell#2", "cpu": 96.0}
+{"ts": "2026-03-28T21:48:38", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: GoGoJumpVPN (50.0%)", "pid": 41200, "process": "GoGoJumpVPN", "cpu": 50.0}
+{"ts": "2026-03-28T21:48:38", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#16 (520.1 MB)", "pid": 13756, "process": "WorkBuddy#16", "mem_mb": 520.1}
+{"ts": "2026-03-28T22:09:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (159.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 159.0}
+{"ts": "2026-03-28T22:09:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (44.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 44.0}
+{"ts": "2026-03-28T22:41:05", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (142.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 142.0}
+{"ts": "2026-03-28T22:53:19", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (46.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 46.0}
+{"ts": "2026-03-29T00:45:14", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (186.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 186.0}
+{"ts": "2026-03-29T00:45:14", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (123.0%)", "pid": 24776, "process": "dwm", "cpu": 123.0}
+{"ts": "2026-03-29T00:45:14", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (104.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 104.0}
+{"ts": "2026-03-29T00:45:14", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 55452, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-29T01:45:18", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (96.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 96.0}
+{"ts": "2026-03-29T01:45:18", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#31 (69.0%)", "pid": 4600, "process": "svchost#31", "cpu": 69.0}
+{"ts": "2026-03-29T01:45:18", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#16 (574.7 MB)", "pid": 13756, "process": "WorkBuddy#16", "mem_mb": 574.7}
+{"ts": "2026-03-29T04:06:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (63.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 63.0}
+{"ts": "2026-03-29T04:06:13", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (508.5 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 508.5}
+{"ts": "2026-03-29T04:06:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 58628, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-29T04:06:13", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#16 (546.2 MB)", "pid": 13756, "process": "WorkBuddy#16", "mem_mb": 546.2}
+{"ts": "2026-03-29T09:07:36", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 92.3% (14.41/15.62 GB)", "value": 92.3}
+{"ts": "2026-03-29T09:52:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (140.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 140.0}
+{"ts": "2026-03-29T09:52:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (93.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 93.0}
+{"ts": "2026-03-29T09:52:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (43.0%)", "pid": 18896, "process": "WmiPrvSE#2", "cpu": 43.0}
+{"ts": "2026-03-29T09:52:52", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (512.0 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 512.0}
+{"ts": "2026-03-29T10:23:06", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (79.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 79.0}
+{"ts": "2026-03-29T10:23:06", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (46.0%)", "pid": 4952, "process": "svchost#36", "cpu": 46.0}
+{"ts": "2026-03-29T10:23:06", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (43.0%)", "pid": 47224, "process": "WmiPrvSE#2", "cpu": 43.0}
+{"ts": "2026-03-29T10:23:06", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (538.2 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 538.2}
+{"ts": "2026-03-29T11:07:24", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (49.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 49.0}
+{"ts": "2026-03-29T11:07:24", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 54780, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-29T11:07:24", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (42.0%)", "pid": 4952, "process": "svchost#36", "cpu": 42.0}
+{"ts": "2026-03-29T11:41:39", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 91.2% (14.25/15.62 GB)", "value": 91.2}
+{"ts": "2026-03-29T11:41:39", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (50.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 50.0}
+{"ts": "2026-03-29T11:41:39", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (637.8 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 637.8}
+{"ts": "2026-03-29T12:23:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (44.0%)", "pid": 34828, "process": "WmiPrvSE#2", "cpu": 44.0}
+{"ts": "2026-03-29T12:23:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (41.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 41.0}
+{"ts": "2026-03-29T12:50:11", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (125.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 125.0}
+{"ts": "2026-03-29T12:50:11", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (48.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 48.0}
+{"ts": "2026-03-29T13:26:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (152.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 152.0}
+{"ts": "2026-03-29T13:26:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 53532, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-29T14:08:43", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (99.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 99.0}
+{"ts": "2026-03-29T14:42:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 43916, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-29T15:13:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (46.0%)", "pid": 39452, "process": "WmiPrvSE#2", "cpu": 46.0}
+{"ts": "2026-03-29T16:11:43", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (117.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 117.0}
+{"ts": "2026-03-29T16:11:43", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 54484, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-29T16:43:57", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 92.3% (14.42/15.62 GB)", "value": 92.3}
+{"ts": "2026-03-29T16:43:57", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 8152, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-29T17:12:11", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (159.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 159.0}
+{"ts": "2026-03-29T17:12:11", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 53440, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-29T17:12:11", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (556.7 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 556.7}
+{"ts": "2026-03-29T17:35:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (92.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 92.0}
+{"ts": "2026-03-29T17:35:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (44.0%)", "pid": 12912, "process": "WmiPrvSE#2", "cpu": 44.0}
+{"ts": "2026-03-29T17:35:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (41.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 41.0}
+{"ts": "2026-03-29T17:35:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (41.0%)", "pid": 4952, "process": "svchost#36", "cpu": 41.0}
+{"ts": "2026-03-29T18:19:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (626.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 626.0}
+{"ts": "2026-03-29T18:19:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (162.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 162.0}
+{"ts": "2026-03-29T18:19:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#56 (92.0%)", "pid": 61320, "process": "WorkBuddy#56", "cpu": 92.0}
+{"ts": "2026-03-29T18:19:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (49.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 49.0}
+{"ts": "2026-03-29T18:19:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: System (46.0%)", "pid": 4, "process": "System", "cpu": 46.0}
+{"ts": "2026-03-29T18:19:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 40892, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-29T18:59:01", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (160.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 160.0}
+{"ts": "2026-03-29T18:59:01", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (575.3 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 575.3}
+{"ts": "2026-03-29T18:59:01", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (587.7 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 587.7}
+{"ts": "2026-03-29T19:38:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (73.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 73.0}
+{"ts": "2026-03-29T19:38:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (46.0%)", "pid": 25476, "process": "WmiPrvSE#2", "cpu": 46.0}
+{"ts": "2026-03-29T19:38:16", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (537.6 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 537.6}
+{"ts": "2026-03-29T20:09:34", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: TiWorker (77.0%)", "pid": 50840, "process": "TiWorker", "cpu": 77.0}
+{"ts": "2026-03-29T20:30:49", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (52.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 52.0}
+{"ts": "2026-03-29T20:30:49", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 54084, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-29T21:15:06", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (161.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 161.0}
+{"ts": "2026-03-29T21:15:06", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (62.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 62.0}
+{"ts": "2026-03-29T21:40:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 52268, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-29T22:24:38", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (46.0%)", "pid": 54512, "process": "WmiPrvSE#2", "cpu": 46.0}
+{"ts": "2026-03-29T22:24:38", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#2 (46.0%)", "pid": 6436, "process": "WorkBuddy#2", "cpu": 46.0}
+{"ts": "2026-03-29T22:24:38", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (1231.0 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 1231.0}
+{"ts": "2026-03-29T23:08:55", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 92.9% (14.51/15.62 GB)", "value": 92.9}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (153.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 153.0}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (525.3 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 525.3}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (75.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 75.0}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (51.0%)", "pid": 4952, "process": "svchost#36", "cpu": 51.0}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (51.0%)", "pid": 24776, "process": "dwm", "cpu": 51.0}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (47.0%)", "pid": 62804, "process": "WmiPrvSE#2", "cpu": 47.0}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (44.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 44.0}
+{"ts": "2026-03-29T23:08:55", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (584.7 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 584.7}
+{"ts": "2026-03-30T00:06:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (112.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 112.0}
+{"ts": "2026-03-30T00:06:16", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (1199.7 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 1199.7}
+{"ts": "2026-03-30T00:06:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (45.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 45.0}
+{"ts": "2026-03-30T00:06:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 30524, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T00:06:16", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (667.4 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 667.4}
+{"ts": "2026-03-30T00:41:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (100.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 100.0}
+{"ts": "2026-03-30T00:41:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (82.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 82.0}
+{"ts": "2026-03-30T00:41:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (53.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 53.0}
+{"ts": "2026-03-30T00:41:30", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (546.7 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 546.7}
+{"ts": "2026-03-30T01:10:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (153.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 153.0}
+{"ts": "2026-03-30T01:10:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (142.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 142.0}
+{"ts": "2026-03-30T01:10:45", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (572.4 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 572.4}
+{"ts": "2026-03-30T01:10:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (94.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 94.0}
+{"ts": "2026-03-30T01:10:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (65.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 65.0}
+{"ts": "2026-03-30T01:41:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (127.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 127.0}
+{"ts": "2026-03-30T01:41:58", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (541.5 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 541.5}
+{"ts": "2026-03-30T01:41:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (94.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 94.0}
+{"ts": "2026-03-30T01:41:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (43.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 43.0}
+{"ts": "2026-03-30T01:41:58", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (673.0 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 673.0}
+{"ts": "2026-03-30T02:03:11", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (93.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 93.0}
+{"ts": "2026-03-30T02:03:11", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 58588, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-30T02:38:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (706.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 706.0}
+{"ts": "2026-03-30T02:38:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (114.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 114.0}
+{"ts": "2026-03-30T02:38:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (96.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 96.0}
+{"ts": "2026-03-30T02:38:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#74 (96.0%)", "pid": 14952, "process": "WorkBuddy#74", "cpu": 96.0}
+{"ts": "2026-03-30T02:38:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (64.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 64.0}
+{"ts": "2026-03-30T02:38:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (64.0%)", "pid": 4952, "process": "svchost#36", "cpu": 64.0}
+{"ts": "2026-03-30T02:38:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (43.0%)", "pid": 39364, "process": "WmiPrvSE#2", "cpu": 43.0}
+{"ts": "2026-03-30T03:22:40", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 59692, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-30T03:22:40", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (45.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 45.0}
+{"ts": "2026-03-30T03:59:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (101.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 101.0}
+{"ts": "2026-03-30T03:59:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (66.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 66.0}
+{"ts": "2026-03-30T03:59:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 64296, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-30T03:59:53", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (760.9 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 760.9}
+{"ts": "2026-03-30T04:39:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (63.0%)", "pid": 4952, "process": "svchost#36", "cpu": 63.0}
+{"ts": "2026-03-30T04:39:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (42.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 42.0}
+{"ts": "2026-03-30T04:39:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (42.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 42.0}
+{"ts": "2026-03-30T05:02:20", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 37184, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-30T05:40:35", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: Doubao#6 (49.0%)", "pid": 28924, "process": "Doubao#6", "cpu": 49.0}
+{"ts": "2026-03-30T05:40:35", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 52476, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T06:13:49", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (56.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 56.0}
+{"ts": "2026-03-30T06:13:49", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (49.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 49.0}
+{"ts": "2026-03-30T06:13:49", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 63896, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T06:45:05", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (973.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 973.0}
+{"ts": "2026-03-30T06:45:05", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (142.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 142.0}
+{"ts": "2026-03-30T06:45:05", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#46 (87.0%)", "pid": 61320, "process": "WorkBuddy#46", "cpu": 87.0}
+{"ts": "2026-03-30T06:45:05", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: System (48.0%)", "pid": 4, "process": "System", "cpu": 48.0}
+{"ts": "2026-03-30T06:45:05", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 17720, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-30T07:24:18", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: core (96.0%)", "pid": 50688, "process": "core", "cpu": 96.0}
+{"ts": "2026-03-30T07:24:18", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: System (74.0%)", "pid": 4, "process": "System", "cpu": 74.0}
+{"ts": "2026-03-30T07:24:18", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 30992, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T08:05:32", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (93.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 93.0}
+{"ts": "2026-03-30T08:05:32", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (52.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 52.0}
+{"ts": "2026-03-30T08:05:32", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (48.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 48.0}
+{"ts": "2026-03-30T08:34:47", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (45.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 45.0}
+{"ts": "2026-03-30T09:00:01", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (79.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 79.0}
+{"ts": "2026-03-30T09:00:01", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (49.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 49.0}
+{"ts": "2026-03-30T09:00:01", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (41.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 41.0}
+{"ts": "2026-03-30T09:32:16", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 94.0% (14.68/15.62 GB)", "value": 94.0}
+{"ts": "2026-03-30T09:32:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (101.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 101.0}
+{"ts": "2026-03-30T09:32:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (50.0%)", "pid": 24776, "process": "dwm", "cpu": 50.0}
+{"ts": "2026-03-30T09:32:16", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (47.0%)", "pid": 63240, "process": "WmiPrvSE#2", "cpu": 47.0}
+{"ts": "2026-03-30T10:06:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (101.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 101.0}
+{"ts": "2026-03-30T10:06:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (50.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 50.0}
+{"ts": "2026-03-30T10:06:30", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (562.4 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 562.4}
+{"ts": "2026-03-30T10:06:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (47.0%)", "pid": 8184, "process": "WmiPrvSE#2", "cpu": 47.0}
+{"ts": "2026-03-30T10:06:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (43.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 43.0}
+{"ts": "2026-03-30T10:06:30", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (43.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 43.0}
+{"ts": "2026-03-30T10:06:30", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (716.0 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 716.0}
+{"ts": "2026-03-30T10:17:28", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (98.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 98.0}
+{"ts": "2026-03-30T10:17:28", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (62.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 62.0}
+{"ts": "2026-03-30T10:17:28", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (52.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 52.0}
+{"ts": "2026-03-30T10:17:28", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 45484, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T10:17:28", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (586.5 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 586.5}
+{"ts": "2026-03-30T10:17:40", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (74.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 74.0}
+{"ts": "2026-03-30T10:17:40", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 45484, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T10:17:40", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (42.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 42.0}
+{"ts": "2026-03-30T10:17:40", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (588.2 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 588.2}
+{"ts": "2026-03-30T10:18:00", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (143.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 143.0}
+{"ts": "2026-03-30T10:18:00", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (97.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 97.0}
+{"ts": "2026-03-30T10:18:00", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: System (62.0%)", "pid": 4, "process": "System", "cpu": 62.0}
+{"ts": "2026-03-30T10:18:00", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (45.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 45.0}
+{"ts": "2026-03-30T10:18:00", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (41.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 41.0}
+{"ts": "2026-03-30T10:18:00", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (586.7 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 586.7}
+{"ts": "2026-03-30T10:18:00", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 45484, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-30T10:18:54", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 90.1% (14.08/15.62 GB)", "value": 90.1}
+{"ts": "2026-03-30T10:18:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (122.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 122.0}
+{"ts": "2026-03-30T10:18:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (102.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 102.0}
+{"ts": "2026-03-30T10:18:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (47.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 47.0}
+{"ts": "2026-03-30T10:18:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (44.0%)", "pid": 45484, "process": "WmiPrvSE#2", "cpu": 44.0}
+{"ts": "2026-03-30T10:18:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (44.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 44.0}
+{"ts": "2026-03-30T10:18:54", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (587.6 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 587.6}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (210.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 210.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (514.4 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 514.4}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#55 (133.0%)", "pid": 53776, "process": "WorkBuddy#55", "cpu": 133.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (126.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 126.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (94.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 94.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (56.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 56.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (52.0%)", "pid": 24776, "process": "dwm", "cpu": 52.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: System (49.0%)", "pid": 4, "process": "System", "cpu": 49.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 35964, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-30T10:41:45", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (899.4 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 899.4}
+{"ts": "2026-03-30T11:08:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (97.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 97.0}
+{"ts": "2026-03-30T11:08:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (86.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 86.0}
+{"ts": "2026-03-30T11:08:58", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 47436, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-30T11:08:58", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (557.8 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 557.8}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#15 (282.0%)", "pid": 13756, "process": "WorkBuddy#15", "cpu": 282.0}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (710.2 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 710.2}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (164.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 164.0}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (575.9 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 575.9}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (135.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 135.0}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#55 (100.0%)", "pid": 53776, "process": "WorkBuddy#55", "cpu": 100.0}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (46.0%)", "pid": 56904, "process": "WmiPrvSE#2", "cpu": 46.0}
+{"ts": "2026-03-30T11:41:13", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (46.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 46.0}
+{"ts": "2026-03-30T12:04:26", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 91.9% (14.35/15.62 GB)", "value": 91.9}
+{"ts": "2026-03-30T12:04:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (77.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 77.0}
+{"ts": "2026-03-30T12:04:26", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (557.7 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 557.7}
+{"ts": "2026-03-30T12:04:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#55 (65.0%)", "pid": 53776, "process": "WorkBuddy#55", "cpu": 65.0}
+{"ts": "2026-03-30T12:04:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (50.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 50.0}
+{"ts": "2026-03-30T12:04:26", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (42.0%)", "pid": 24776, "process": "dwm", "cpu": 42.0}
+{"ts": "2026-03-30T12:04:26", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (734.3 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 734.3}
+{"ts": "2026-03-30T12:48:39", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 91.6% (14.31/15.62 GB)", "value": 91.6}
+{"ts": "2026-03-30T12:48:39", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (118.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 118.0}
+{"ts": "2026-03-30T12:48:39", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (97.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 97.0}
+{"ts": "2026-03-30T12:48:39", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (45.0%)", "pid": 22024, "process": "WmiPrvSE#2", "cpu": 45.0}
+{"ts": "2026-03-30T12:48:39", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (41.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 41.0}
+{"ts": "2026-03-30T13:23:54", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 91.8% (14.34/15.62 GB)", "value": 91.8}
+{"ts": "2026-03-30T13:23:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (95.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 95.0}
+{"ts": "2026-03-30T13:23:54", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (546.4 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 546.4}
+{"ts": "2026-03-30T13:51:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (90.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 90.0}
+{"ts": "2026-03-30T13:51:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (76.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 76.0}
+{"ts": "2026-03-30T13:51:07", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (500.3 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 500.3}
+{"ts": "2026-03-30T13:51:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (69.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 69.0}
+{"ts": "2026-03-30T13:51:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (59.0%)", "pid": 4952, "process": "svchost#36", "cpu": 59.0}
+{"ts": "2026-03-30T13:51:07", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 30716, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-30T14:16:21", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 92.8% (14.5/15.62 GB)", "value": 92.8}
+{"ts": "2026-03-30T14:16:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (93.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 93.0}
+{"ts": "2026-03-30T14:16:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (89.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 89.0}
+{"ts": "2026-03-30T14:16:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 64764, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-30T14:45:37", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 90.8% (14.19/15.62 GB)", "value": 90.8}
+{"ts": "2026-03-30T14:45:37", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (93.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 93.0}
+{"ts": "2026-03-30T14:45:37", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (89.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 89.0}
+{"ts": "2026-03-30T14:45:37", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: System (70.0%)", "pid": 4, "process": "System", "cpu": 70.0}
+{"ts": "2026-03-30T15:08:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (62.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 62.0}
+{"ts": "2026-03-30T15:08:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (51.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 51.0}
+{"ts": "2026-03-30T15:08:52", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (44.0%)", "pid": 53728, "process": "WmiPrvSE#2", "cpu": 44.0}
+{"ts": "2026-03-30T15:08:52", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (520.8 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 520.8}
+{"ts": "2026-03-30T15:53:06", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 90.1% (14.07/15.62 GB)", "value": 90.1}
+{"ts": "2026-03-30T15:53:06", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (165.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 165.0}
+{"ts": "2026-03-30T16:15:21", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 90.1% (14.07/15.62 GB)", "value": 90.1}
+{"ts": "2026-03-30T16:15:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (100.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 100.0}
+{"ts": "2026-03-30T16:15:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (59.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 59.0}
+{"ts": "2026-03-30T16:15:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: svchost#36 (55.0%)", "pid": 4952, "process": "svchost#36", "cpu": 55.0}
+{"ts": "2026-03-30T16:15:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (48.0%)", "pid": 24776, "process": "dwm", "cpu": 48.0}
+{"ts": "2026-03-30T16:15:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: GoGoJumpVPN (45.0%)", "pid": 41200, "process": "GoGoJumpVPN", "cpu": 45.0}
+{"ts": "2026-03-30T16:15:21", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (41.0%)", "pid": 63892, "process": "WmiPrvSE#2", "cpu": 41.0}
+{"ts": "2026-03-30T16:47:37", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (99.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 99.0}
+{"ts": "2026-03-30T16:47:37", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (55.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 55.0}
+{"ts": "2026-03-30T17:27:54", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 93.4% (14.59/15.62 GB)", "value": 93.4}
+{"ts": "2026-03-30T17:27:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (101.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 101.0}
+{"ts": "2026-03-30T17:27:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (94.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 94.0}
+{"ts": "2026-03-30T17:27:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (52.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 52.0}
+{"ts": "2026-03-30T17:27:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: System (42.0%)", "pid": 4, "process": "System", "cpu": 42.0}
+{"ts": "2026-03-30T17:27:54", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 54600, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T17:27:54", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (590.7 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 590.7}
+{"ts": "2026-03-30T18:01:09", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WorkBuddy#5 (122.0%)", "pid": 16160, "process": "WorkBuddy#5", "cpu": 122.0}
+{"ts": "2026-03-30T18:01:09", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#5 (1361.3 MB)", "pid": 16160, "process": "WorkBuddy#5", "mem_mb": 1361.3}
+{"ts": "2026-03-30T18:01:09", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (80.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 80.0}
+{"ts": "2026-03-30T18:01:09", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (45.0%)", "pid": 24776, "process": "dwm", "cpu": 45.0}
+{"ts": "2026-03-30T18:01:09", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (42.0%)", "pid": 53640, "process": "WmiPrvSE#2", "cpu": 42.0}
+{"ts": "2026-03-30T18:40:25", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 92.3% (14.41/15.62 GB)", "value": 92.3}
+{"ts": "2026-03-30T18:40:25", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (155.0%)", "pid": 48896, "process": "WmiPrvSE#1", "cpu": 155.0}
+{"ts": "2026-03-30T18:40:25", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (96.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 96.0}
+{"ts": "2026-03-30T18:40:25", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (726.5 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 726.5}
+{"ts": "2026-03-30T19:17:39", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 91.5% (14.29/15.62 GB)", "value": 91.5}
+{"ts": "2026-03-30T19:17:39", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (727.2 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 727.2}
+{"ts": "2026-03-30T19:56:55", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 90.3% (14.11/15.62 GB)", "value": 90.3}
+{"ts": "2026-03-30T19:56:55", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (98.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 98.0}
+{"ts": "2026-03-30T19:56:55", "level": "WARN", "type": "high_mem", "msg": "高内存占用: WorkBuddy#15 (788.9 MB)", "pid": 13756, "process": "WorkBuddy#15", "mem_mb": 788.9}
+{"ts": "2026-03-30T20:28:09", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (94.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 94.0}
+{"ts": "2026-03-30T20:52:53", "level": "HIGH", "type": "system_mem", "msg": "系统内存占用过高: 95.3% (14.89/15.62 GB)", "value": 95.3}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#1 (142.0%)", "pid": 47324, "process": "WmiPrvSE#1", "cpu": 142.0}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: MsMpEng (122.0%)", "pid": 6976, "process": "MsMpEng", "cpu": 122.0}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: pythonw#1 (92.0%)", "pid": 30712, "process": "pythonw#1", "cpu": 92.0}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: dwm (62.0%)", "pid": 24776, "process": "dwm", "cpu": 62.0}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: wallpaper64 (59.0%)", "pid": 19312, "process": "wallpaper64", "cpu": 59.0}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_cpu", "msg": "高CPU占用: WmiPrvSE#2 (49.0%)", "pid": 33864, "process": "WmiPrvSE#2", "cpu": 49.0}
+{"ts": "2026-03-30T20:52:53", "level": "CRITICAL", "type": "not_responding", "msg": "进程卡死: cs2 (PID 53104) — 相当于路上堵死的车", "pid": 53104, "process": "cs2"}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_mem", "msg": "高内存占用: cs2 (1331.5 MB)", "pid": 53104, "process": "cs2", "mem_mb": 1331.5}
+{"ts": "2026-03-30T20:52:53", "level": "WARN", "type": "high_mem", "msg": "高内存占用: Memory Compression (1449.2 MB)", "pid": 4748, "process": "Memory Compression", "mem_mb": 1449.2}

@@ -1,0 +1,31 @@
+{"time": "2026-03-28T10:06:08.608923", "event": "server_start", "port": 7788, "public_ip": "103.232.212.91"}
+{"time": "2026-03-28T10:06:19.686043", "event": "ping", "from": "127.0.0.1"}
+{"time": "2026-03-28T10:10:06.297400", "event": "server_start", "port": 7788, "auth_mode": "兼容模式"}
+{"time": "2026-03-28T10:15:07.938146", "event": "server_start", "port": 7788, "portrait_hash": "e6fb5e54"}
+{"time": "2026-03-28T10:15:26.491469", "event": "auth_failed", "from": "127.0.0.1", "path": "/ping", "reason": "Token无效或已过期"}
+{"time": "2026-03-28T10:16:11.871026", "event": "auth_failed", "from": "127.0.0.1", "path": "/ping", "reason": "Token无效或已过期"}
+{"time": "2026-03-28T10:16:43.049700", "event": "server_start", "port": 7788, "portrait_hash": "e6fb5e54"}
+{"time": "2026-03-28T10:16:55.660451", "event": "auth_failed", "from": "127.0.0.1", "path": "/ping", "reason": "Token无效或已过期"}
+{"time": "2026-03-28T10:17:04.008005", "event": "server_start", "port": 7788, "portrait_hash": "e6fb5e54"}
+{"t": "2026-03-28T10:25:44", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1", "portrait": "e6fb5e54"}
+{"t": "2026-03-28T10:26:21", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1", "portrait": "e6fb5e54"}
+{"t": "2026-03-28T10:26:44", "e": "auth_fail", "from": "127.0.0.1", "cmd": "PING", "reason": "Token无效或已过期"}
+{"t": "2026-03-28T10:26:44", "e": "auth_fail", "from": "127.0.0.1", "cmd": "STATUS", "reason": "Token无效或已过期"}
+{"t": "2026-03-28T10:26:44", "e": "auth_fail", "from": "127.0.0.1", "cmd": "PING", "reason": "Token无效或已过期"}
+{"t": "2026-03-28T10:27:33", "e": "ping", "from": "127.0.0.1"}
+{"t": "2026-03-28T10:27:50", "e": "ping", "from": "127.0.0.1"}
+{"t": "2026-03-28T10:27:50", "e": "status", "from": "127.0.0.1"}
+{"t": "2026-03-28T10:27:50", "e": "message", "from": "test", "msg": "澜，这是第一条通过LAN-PROTO协议发出的消息"}
+{"t": "2026-03-28T10:27:50", "e": "auth_fail", "from": "127.0.0.1", "cmd": "PING", "reason": "Token无效或已过期"}
+{"t": "2026-03-28T16:08:56", "e": "timeout", "from": "127.0.0.1"}
+{"t": "2026-03-28T16:09:01", "e": "timeout", "from": "127.0.0.1"}
+{"t": "2026-03-28T16:09:06", "e": "timeout", "from": "127.0.0.1"}
+{"t": "2026-03-28T16:09:11", "e": "timeout", "from": "127.0.0.1"}
+{"t": "2026-03-29T12:55:30", "e": "timeout", "from": "127.0.0.1"}
+{"t": "2026-03-30T22:10:28", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1+TLS", "portrait": "e6fb5e54", "tls": true}
+{"t": "2026-03-30T22:10:40", "e": "tls_error", "err": "[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1032)"}
+{"t": "2026-03-30T23:00:43", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1+TLS", "portrait": "e6fb5e54", "tls": true}
+{"t": "2026-03-30T23:07:40", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1+TLS", "portrait": "e6fb5e54", "tls": true}
+{"t": "2026-03-30T23:15:48", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1+TLS", "portrait": "e6fb5e54", "tls": true}
+{"t": "2026-03-30T23:17:27", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1+TLS", "portrait": "e6fb5e54", "tls": true}
+{"t": "2026-03-30T23:20:29", "e": "server_start", "port": 7788, "proto": "LAN-PROTO/v1+TLS", "portrait": "e6fb5e54", "tls": true}

@@ -1,0 +1,10 @@
+{
+  "lan_heartbeat.py": [
+    {
+      "id": "FIX-20260330-010434",
+      "ts": "2026-03-30 01:04:34",
+      "brief": "emoji导致GBK编码失败",
+      "status": "FIXED"
+    }
+  ]
+}

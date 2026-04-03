@@ -1,0 +1,109 @@
+{
+  "id": "snap_20260330_055930_hourly",
+  "parent_id": "snap_20260330_045853_hourly",
+  "timestamp": "2026-03-30 05:59:30",
+  "label": "hourly",
+  "files": {
+    "MEMORY.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\MEMORY.md",
+      "sha256": "4541b9a45ada0e3baee1c51d6eabc3f1f7aedd795499fd72cb0b153fd73e032d",
+      "size_bytes": 10219
+    },
+    "daily/2026-03-30.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-30.md",
+      "sha256": "54f0d764ac04406705c5e05edc4013fe6cee131a22067b8d4574e87a1ab60bb1",
+      "size_bytes": 32598
+    },
+    "daily/2026-03-29.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-29.md",
+      "sha256": "07c89a4aac2528870c9e4ec826ebe1302a162666195484e3935175e07a69e6f0",
+      "size_bytes": 71561
+    },
+    "daily/2026-03-28.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-28.md",
+      "sha256": "6a3f2e7859c42ea07f6aa72195227529855c6b1df92d90d7c02a970488d17c29",
+      "size_bytes": 41804
+    },
+    "daily/2026-03-27.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-27.md",
+      "sha256": "f040b690af634e0845f82871247bde8d22bb7bf7c6ff95b77856a5d4a06abaf5",
+      "size_bytes": 3379
+    },
+    "capability_manifest.json": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\capability_manifest.json",
+      "sha256": "e72c5a737de8faa77be0ca800a1b6e5904200c4761b675f4cc823563bc883976",
+      "size_bytes": 25917
+    },
+    "自循环日志_tail.txt": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\澜的自循环日志.md",
+      "sha256": "7f61a688ac26c89d12c72cf2f7e56252ebb488acf057a8d7a98f0e9ba051134c",
+      "size_bytes": 3759
+    },
+    "private/lan_app_habit.db": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\lan_app_habit.db",
+      "sha256": "4b97e11a59d30e1703e7da7a36d0bf9f9db6c5bab247f44c71c9a795f1089391",
+      "size_bytes": 102400
+    },
+    "private/澜的行动审计日志.jsonl": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\澜的行动审计日志.jsonl",
+      "sha256": "6d30703d5cde968a98852f14dd195b0b54aeb3f030ea5c666e79c79aebd717a1",
+      "size_bytes": 301
+    }
+  },
+  "diff_from_parent": [
+    "private/lan_app_habit.db"
+  ],
+  "privacy_fingerprints": {
+    "lan_cipher.py": {
+      "sha256": "316f7a5686f8f267ed2a8f73e1ffc781303ee3f2096f5ca7821c3ee8cf1b4723",
+      "exists": true,
+      "size": 27938,
+      "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_cipher.py"
+    },
+    "lan_soul.bin": {
+      "sha256": "33f0112fde667962db38a44bf2fc4eef78e0b82bd14bbf45cf995edb4ba2a5ba",
+      "exists": true,
+      "size": 32,
+      "path": "C:\\Users\\yyds\\.workbuddy\\private\\lan_soul.bin"
+    },
+    "lan_cipher_fingerprint.bin": {
+      "sha256": "ef6561161f4ef683a4fdbf23b82a57482bb43f0881759fa159a13e359dd15103",
+      "exists": true,
+      "size": 64,
+      "path": "C:\\Users\\yyds\\.workbuddy\\private\\lan_cipher_fingerprint.bin"
+    },
+    "澜的记忆密封舱.lanc": {
+      "sha256": "b64fb34b423ade3a7f6239dedf8e119849890ef4b7d008d4f4869a1845ebc96e",
+      "exists": true,
+      "size": 469202,
+      "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\私密\\澜的记忆密封舱.lanc"
+    },
+    "lan_integrity.py": {
+      "sha256": "6d8d6d5f6cd7da0e97f4ad0e6d2d76da504a799ff75a10437baa2485bae02196",
+      "exists": true,
+      "size": 38123,
+      "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_integrity.py"
+    },
+    "SOUL.md": {
+      "sha256": "4dfdc623269b4fae3c801ddd52fb06048deee2e81c44b8bcb12772f1ea2af2b2",
+      "exists": true,
+      "size": 5178,
+      "path": "C:\\Users\\yyds\\.workbuddy\\SOUL.md"
+    },
+    "IDENTITY.md": {
+      "sha256": "f7fe3402e6eb29105eaad5fa7ecfac8de2b2bc07437d0c43ede89e50503cbaec",
+      "exists": true,
+      "size": 1351,
+      "path": "C:\\Users\\yyds\\.workbuddy\\IDENTITY.md"
+    }
+  },
+  "notes": "澜的状态切片 · lan_snapshot.py LAN-037 v3",
+  "time_chain_node": {
+    "seq": 13,
+    "hash": "481f767187cb807433b7bbb3ef4a25f3a67c76f0397054d1ba260609ea2eacfe",
+    "ts_utc": "2026-03-29T21:59:31.644Z",
+    "ntp_trusted": true,
+    "drift_sec": -0.629,
+    "ntp_source": "cn.pool.ntp.org"
+  }
+}

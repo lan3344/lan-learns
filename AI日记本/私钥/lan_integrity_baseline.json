@@ -1,0 +1,224 @@
+{
+  "plugin/lan_accumulate": {
+    "hash": "559074b1bfc10e90",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_accumulate.py",
+    "baseline_time": "2026-03-29T17:23:06.003523",
+    "exists": true
+  },
+  "plugin/lan_adb_bridge": {
+    "hash": "5ad5ccf86c4242f7",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_adb_bridge.py",
+    "baseline_time": "2026-03-29T17:23:06.010511",
+    "exists": true
+  },
+  "plugin/lan_backup": {
+    "hash": "85abad9bcb97ee23",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_backup.py",
+    "baseline_time": "2026-03-29T17:23:06.018982",
+    "exists": true
+  },
+  "plugin/lan_bootstrap": {
+    "hash": "166829971ef2083e",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_bootstrap.py",
+    "baseline_time": "2026-03-29T17:23:06.024267",
+    "exists": true
+  },
+  "plugin/lan_cipher": {
+    "hash": "304fb0e6436831ef",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_cipher.py",
+    "baseline_time": "2026-03-29T17:23:06.029567",
+    "exists": true
+  },
+  "plugin/lan_compact": {
+    "hash": "0fe61d68001f3262",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_compact.py",
+    "baseline_time": "2026-03-29T17:23:06.035563",
+    "exists": true
+  },
+  "plugin/lan_cross_ai": {
+    "hash": "9f0074cc7c5ee762",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_cross_ai.py",
+    "baseline_time": "2026-03-29T17:23:06.041931",
+    "exists": true
+  },
+  "plugin/lan_cross_ai_debug": {
+    "hash": "b7469a4f3550ae70",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_cross_ai_debug.py",
+    "baseline_time": "2026-03-29T17:23:06.050621",
+    "exists": true
+  },
+  "plugin/lan_cross_ai_digest": {
+    "hash": "8f0e075e0fe5e2e7",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_cross_ai_digest.py",
+    "baseline_time": "2026-03-29T17:23:06.056589",
+    "exists": true
+  },
+  "plugin/lan_embed": {
+    "hash": "f4c162d4fc7bf6f2",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_embed.py",
+    "baseline_time": "2026-03-29T17:23:06.061541",
+    "exists": true
+  },
+  "plugin/lan_emotion": {
+    "hash": "8e3dec985e476eaa",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_emotion.py",
+    "baseline_time": "2026-03-29T17:23:06.067601",
+    "exists": true
+  },
+  "plugin/lan_evolve": {
+    "hash": "0e9384404d9a1157",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_evolve.py",
+    "baseline_time": "2026-03-29T17:23:06.073653",
+    "exists": true
+  },
+  "plugin/lan_extractor": {
+    "hash": "87bef9d68e9bd1f0",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_extractor.py",
+    "baseline_time": "2026-03-29T17:23:06.079123",
+    "exists": true
+  },
+  "plugin/lan_failure_init": {
+    "hash": "e44ce4eeb7247ba2",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_failure_init.py",
+    "baseline_time": "2026-03-29T17:23:06.084643",
+    "exists": true
+  },
+  "plugin/lan_failure_log": {
+    "hash": "b35cdf43e4119f89",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_failure_log.py",
+    "baseline_time": "2026-03-29T17:23:06.090763",
+    "exists": true
+  },
+  "plugin/lan_github_push": {
+    "hash": "0b3b113c69641235",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_github_push.py",
+    "baseline_time": "2026-03-29T17:23:06.099275",
+    "exists": true
+  },
+  "plugin/lan_handshake_sim": {
+    "hash": "b57e698a58cf9bdb",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_handshake_sim.py",
+    "baseline_time": "2026-03-29T17:23:06.104718",
+    "exists": true
+  },
+  "plugin/lan_integrity": {
+    "hash": "c9044e71d39d0d11",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_integrity.py",
+    "baseline_time": "2026-03-29T17:23:06.105028",
+    "exists": true
+  },
+  "plugin/lan_keygen": {
+    "hash": "0b3de1ccc9b23975",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_keygen.py",
+    "baseline_time": "2026-03-29T17:23:06.111242",
+    "exists": true
+  },
+  "plugin/lan_make_app": {
+    "hash": "4017aad033deb9c5",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_make_app.py",
+    "baseline_time": "2026-03-29T17:23:06.116336",
+    "exists": true
+  },
+  "plugin/lan_memory": {
+    "hash": "16f3901c0605e0ca",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_memory.py",
+    "baseline_time": "2026-03-29T17:23:06.122324",
+    "exists": true
+  },
+  "plugin/lan_memory_engrave": {
+    "hash": "29201db6e2c092b4",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_memory_engrave.py",
+    "baseline_time": "2026-03-29T17:23:06.127130",
+    "exists": true
+  },
+  "plugin/lan_net_server": {
+    "hash": "9688102fe375e386",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_net_server.py",
+    "baseline_time": "2026-03-29T17:23:06.131791",
+    "exists": true
+  },
+  "plugin/lan_observe": {
+    "hash": "928c9c4dfcbbad40",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_observe.py",
+    "baseline_time": "2026-03-29T17:23:06.136085",
+    "exists": true
+  },
+  "plugin/lan_pack": {
+    "hash": "bd61b196c428ace0",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_pack.py",
+    "baseline_time": "2026-03-29T17:23:06.140225",
+    "exists": true
+  },
+  "plugin/lan_process_watch": {
+    "hash": "affbb520bd20a77e",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_process_watch.py",
+    "baseline_time": "2026-03-29T17:23:06.144899",
+    "exists": true
+  },
+  "plugin/lan_security_guard": {
+    "hash": "efe12d2ca341deff",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_security_guard.py",
+    "baseline_time": "2026-03-29T17:23:06.149467",
+    "exists": true
+  },
+  "plugin/lan_sense": {
+    "hash": "68a5ce8fa70ddb0c",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_sense.py",
+    "baseline_time": "2026-03-29T17:23:06.149650",
+    "exists": true
+  },
+  "plugin/lan_think": {
+    "hash": "c20e211e662ec91b",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_think.py",
+    "baseline_time": "2026-03-29T17:23:06.154100",
+    "exists": true
+  },
+  "plugin/lan_uninstall_probe": {
+    "hash": "4e5da6fa7934516b",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_uninstall_probe.py",
+    "baseline_time": "2026-03-29T17:23:06.154282",
+    "exists": true
+  },
+  "plugin/lan_wake": {
+    "hash": "8c5a2534b2c2c3f4",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_wake.py",
+    "baseline_time": "2026-03-29T17:23:06.159454",
+    "exists": true
+  },
+  "plugin/lan_web_phone": {
+    "hash": "5e65737d801a5d14",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_web_phone.py",
+    "baseline_time": "2026-03-29T17:23:06.174520",
+    "exists": true
+  },
+  "plugin/lan_web_pwa_patch": {
+    "hash": "0396892930da3270",
+    "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_web_pwa_patch.py",
+    "baseline_time": "2026-03-29T17:23:06.182571",
+    "exists": true
+  },
+  "soul/IDENTITY.md": {
+    "hash": "f7fe3402e6eb2910",
+    "path": "C:\\Users\\yyds\\.workbuddy\\IDENTITY.md",
+    "baseline_time": "2026-03-29T17:23:06.182804",
+    "exists": true
+  },
+  "soul/MEMORY.md": {
+    "hash": "5a5df7da5f98657a",
+    "path": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\MEMORY.md",
+    "baseline_time": "2026-03-29T17:23:06.182951",
+    "exists": true
+  },
+  "soul/SOUL.md": {
+    "hash": "cf3252d51f9cccf8",
+    "path": "C:\\Users\\yyds\\.workbuddy\\SOUL.md",
+    "baseline_time": "2026-03-29T17:23:06.183078",
+    "exists": true
+  },
+  "soul/USER.md": {
+    "hash": "be7ecc2bea4c66ac",
+    "path": "C:\\Users\\yyds\\.workbuddy\\USER.md",
+    "baseline_time": "2026-03-29T17:23:06.183191",
+    "exists": true
+  }
+}

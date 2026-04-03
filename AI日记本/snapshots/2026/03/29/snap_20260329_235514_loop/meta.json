@@ -1,0 +1,37 @@
+{
+  "timestamp": "2026-03-29 23:55:14",
+  "label": "loop",
+  "files": {
+    "MEMORY.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\MEMORY.md",
+      "sha256": "8773303d114e63eb10f66eeba1740037e6e56ff7e664027e1d6200236f1b1001",
+      "size_bytes": 6422
+    },
+    "daily/2026-03-29.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-29.md",
+      "sha256": "9ea599f6944bcf64e1fe82b7a93f0b3e8d3431601366cd7acc44449cbcbc3c40",
+      "size_bytes": 68497
+    },
+    "daily/2026-03-28.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-28.md",
+      "sha256": "6a3f2e7859c42ea07f6aa72195227529855c6b1df92d90d7c02a970488d17c29",
+      "size_bytes": 41804
+    },
+    "daily/2026-03-27.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-27.md",
+      "sha256": "f040b690af634e0845f82871247bde8d22bb7bf7c6ff95b77856a5d4a06abaf5",
+      "size_bytes": 3379
+    },
+    "capability_manifest.json": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\capability_manifest.json",
+      "sha256": "932a5a6ccfb9461d7d8804b081d2537da3075dca72a74ba6291145ad1ff2c5d4",
+      "size_bytes": 9253
+    },
+    "自循环日志_tail.txt": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\澜的自循环日志.md",
+      "sha256": "7f61a688ac26c89d12c72cf2f7e56252ebb488acf057a8d7a98f0e9ba051134c",
+      "size_bytes": 3759
+    }
+  },
+  "notes": "澜的状态切片 · lan_snapshot.py LAN-037"
+}

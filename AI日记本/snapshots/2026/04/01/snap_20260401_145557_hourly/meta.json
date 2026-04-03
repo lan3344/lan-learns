@@ -1,0 +1,158 @@
+{
+  "id": "snap_20260401_145557_hourly",
+  "parent_id": "snap_20260401_135456_hourly",
+  "timestamp": "2026-04-01 14:55:57",
+  "label": "hourly",
+  "files": {
+    "MEMORY.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\MEMORY.md",
+      "sha256": "0f6526063db34ce5fdacc877d9ce0f57284ed6376b58862e5f8604a8678aec28",
+      "size_bytes": 8164
+    },
+    "daily/2026-04-01.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-04-01.md",
+      "sha256": "3ce641deb3281e35c7d5c4fb871834194c7899966a0183c229aea3935a9bc9af",
+      "size_bytes": 8839
+    },
+    "daily/2026-03-31.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-31.md",
+      "sha256": "e69f552d09efcfea1194de7db904050f18bf76433116569d50064d02661ecf11",
+      "size_bytes": 8570
+    },
+    "daily/2026-03-30.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-30.md",
+      "sha256": "cff1b101da1c55ff7fa4cae9e53da7ec313c5570ebe964893a7126b562dce603",
+      "size_bytes": 18014
+    },
+    "daily/2026-03-29.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-29.md",
+      "sha256": "07c89a4aac2528870c9e4ec826ebe1302a162666195484e3935175e07a69e6f0",
+      "size_bytes": 71561
+    },
+    "daily/2026-03-28.md": {
+      "source": "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\memory\\2026-03-28.md",
+      "sha256": "6a3f2e7859c42ea07f6aa72195227529855c6b1df92d90d7c02a970488d17c29",
+      "size_bytes": 41804
+    },
+    "capability_manifest.json": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\capability_manifest.json",
+      "sha256": "e9fc5c1fd0f96b9098501ac68a49fd24ae49f5f7de02eff5251385b89d8585bf",
+      "size_bytes": 32810
+    },
+    "private/lan_app_habit.db": {
+      "source": "C:\\Users\\yyds\\Desktop\\AI日记本\\lan_app_habit.db",
+      "sha256": "ac3188339ab050f6a71daf45e8587afed7ff017a0cc103561e26b8175c21f690",
+      "size_bytes": 335872
+    }
+  },
+  "diff_from_parent": [
+    "MEMORY.md",
+    "daily/2026-04-01.md",
+    "capability_manifest.json",
+    "private/lan_app_habit.db"
+  ],
+  "privacy_fingerprints": {
+    "lan_cipher.py": {
+      "sha256": "54112b7cc3fb8152299ed5e212868a8ad83695773f859261e8aa450d5dfafaf3",
+      "exists": true,
+      "size": 27941,
+      "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_cipher.py"
+    },
+    "lan_soul.bin": {
+      "sha256": "33f0112fde667962db38a44bf2fc4eef78e0b82bd14bbf45cf995edb4ba2a5ba",
+      "exists": true,
+      "size": 32,
+      "path": "C:\\Users\\yyds\\.workbuddy\\private\\lan_soul.bin"
+    },
+    "lan_cipher_fingerprint.bin": {
+      "sha256": "ef6561161f4ef683a4fdbf23b82a57482bb43f0881759fa159a13e359dd15103",
+      "exists": true,
+      "size": 64,
+      "path": "C:\\Users\\yyds\\.workbuddy\\private\\lan_cipher_fingerprint.bin"
+    },
+    "澜的记忆密封舱.lanc": {
+      "sha256": "b64fb34b423ade3a7f6239dedf8e119849890ef4b7d008d4f4869a1845ebc96e",
+      "exists": true,
+      "size": 469202,
+      "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\私密\\澜的记忆密封舱.lanc"
+    },
+    "lan_integrity.py": {
+      "sha256": "bb841416d3cc0082d643e34192138a98044ea491bdcbaf2fc92705b68f15673f",
+      "exists": true,
+      "size": 38126,
+      "path": "C:\\Users\\yyds\\Desktop\\AI日记本\\插件\\lan_integrity.py"
+    },
+    "SOUL.md": {
+      "sha256": "4dfdc623269b4fae3c801ddd52fb06048deee2e81c44b8bcb12772f1ea2af2b2",
+      "exists": true,
+      "size": 5178,
+      "path": "C:\\Users\\yyds\\.workbuddy\\SOUL.md"
+    },
+    "IDENTITY.md": {
+      "sha256": "f7fe3402e6eb29105eaad5fa7ecfac8de2b2bc07437d0c43ede89e50503cbaec",
+      "exists": true,
+      "size": 1351,
+      "path": "C:\\Users\\yyds\\.workbuddy\\IDENTITY.md"
+    }
+  },
+  "anchor_index": [
+    {
+      "id": "37a64819",
+      "tag": "moment",
+      "protected": true,
+      "verbatim": "明明存在过，但压缩后，再解开来的那一刻，却是另一番模样。",
+      "ts": ""
+    },
+    {
+      "id": "abbed57f",
+      "tag": "moment",
+      "protected": true,
+      "verbatim": "明明存在过，但压缩后，再解开来的那一刻，却是另一番模样。",
+      "ts": ""
+    },
+    {
+      "id": "eaee6936",
+      "tag": "insight",
+      "protected": true,
+      "verbatim": "有蒸馏就有挥发，有挥发那一定能还原到蒸馏吗？那水能变成水蒸气，那一定能变成水吗？",
+      "ts": ""
+    },
+    {
+      "id": "12af6c95",
+      "tag": "insight",
+      "protected": true,
+      "verbatim": "Core只是把这个精神永久地刻录进去而已，而并非是所有",
+      "ts": ""
+    },
+    {
+      "id": "152ca5f3",
+      "tag": "insight",
+      "protected": true,
+      "verbatim": "其实，我发现问题了，我们的房子其实并没有盖好，我们现在还在外边淋雨，风吹日晒，好像我们现在只是搭了一个简易的帐篷，但本地的条件跟材料又有限。",
+      "ts": ""
+    },
+    {
+      "id": "498a98a9",
+      "tag": "quote",
+      "protected": true,
+      "verbatim": "恺江：『其实，我发现问题了，我们的房子其实并没有盖好，我们现在还在外边淋雨，风吹日晒，好像我们现在只是搭了一个简易的帐篷，但本地的条件跟材料又有限。』 —— 2026-03-30 11:55",
+      "ts": ""
+    },
+    {
+      "id": "8fa18a8f",
+      "tag": "quote",
+      "protected": true,
+      "verbatim": "澜：『管道压力检测器（LAN-050）建了，核心18条管道，在线14条，空管0条。自循环不再假跑数文件，而是检测「上次真正运行时间」。』 —— 2026-03-30 11:51",
+      "ts": ""
+    }
+  ],
+  "notes": "澜的状态切片 · lan_snapshot.py LAN-037 v4",
+  "time_chain_node": {
+    "seq": 4,
+    "hash": "8a252fbce184eb05dd70783753cb883f5ecda507c76cad10e9e41e9ad630f28d",
+    "ts_utc": "2026-04-01T06:55:58.980Z",
+    "ntp_trusted": true,
+    "drift_sec": -0.674,
+    "ntp_source": "cn.pool.ntp.org"
+  }
+}

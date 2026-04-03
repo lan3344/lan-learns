@@ -1,0 +1,112 @@
+{"timestamp": "2026-03-28T12:03:28", "cycle_id": "ACC-20260328-120328", "prev_cycle_id": "ACC-20260328-120005", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T13:06:15", "cycle_id": "ACC-20260328-130615", "prev_cycle_id": "ACC-20260328-120328", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T13:26:43", "cycle_id": "ACC-20260328-132643", "prev_cycle_id": "ACC-20260328-130615", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T14:06:02", "cycle_id": "ACC-20260328-140602", "prev_cycle_id": "ACC-20260328-132643", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T14:38:16", "cycle_id": "ACC-20260328-143816", "prev_cycle_id": "ACC-20260328-140602", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T15:05:29", "cycle_id": "ACC-20260328-150529", "prev_cycle_id": "ACC-20260328-143816", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T15:43:41", "cycle_id": "ACC-20260328-154341", "prev_cycle_id": "ACC-20260328-150529", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T16:07:54", "cycle_id": "ACC-20260328-160754", "prev_cycle_id": "ACC-20260328-154341", "insights": ["前台切换: 有新的界面在运行"], "flags": ["FOREGROUND_CHANGED"]}
+{"timestamp": "2026-03-28T16:48:07", "cycle_id": "ACC-20260328-164807", "prev_cycle_id": "ACC-20260328-160754", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T17:22:21", "cycle_id": "ACC-20260328-172221", "prev_cycle_id": "ACC-20260328-164807", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T17:43:35", "cycle_id": "ACC-20260328-174335", "prev_cycle_id": "ACC-20260328-172221", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T18:13:48", "cycle_id": "ACC-20260328-181348", "prev_cycle_id": "ACC-20260328-174335", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T18:41:01", "cycle_id": "ACC-20260328-184101", "prev_cycle_id": "ACC-20260328-181348", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T19:21:15", "cycle_id": "ACC-20260328-192115", "prev_cycle_id": "ACC-20260328-184101", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T20:00:28", "cycle_id": "ACC-20260328-200028", "prev_cycle_id": "ACC-20260328-192115", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T20:33:43", "cycle_id": "ACC-20260328-203343", "prev_cycle_id": "ACC-20260328-200028", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T20:56:57", "cycle_id": "ACC-20260328-205657", "prev_cycle_id": "ACC-20260328-203343", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T21:27:12", "cycle_id": "ACC-20260328-212712", "prev_cycle_id": "ACC-20260328-205657", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T21:48:26", "cycle_id": "ACC-20260328-214826", "prev_cycle_id": "ACC-20260328-212712", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T22:09:38", "cycle_id": "ACC-20260328-220938", "prev_cycle_id": "ACC-20260328-214826", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T22:40:52", "cycle_id": "ACC-20260328-224052", "prev_cycle_id": "ACC-20260328-220938", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-28T22:53:14", "cycle_id": "ACC-20260328-225314", "prev_cycle_id": "ACC-20260328-224052", "insights": ["模拟器内存释放了 17 MB（剩余5381MB）"], "flags": []}
+{"timestamp": "2026-03-28T23:10:07", "cycle_id": "ACC-20260328-231007", "prev_cycle_id": "ACC-20260328-225314", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T00:44:33", "cycle_id": "ACC-20260329-004435", "prev_cycle_id": "ACC-20260328-231007", "insights": ["存储减少了 47187.8 MB（47187MB -> 0MB）", "内存消耗了 5384 MB"], "flags": ["STORAGE_DROP", "LOW_MEMORY"]}
+{"timestamp": "2026-03-29T01:45:10", "cycle_id": "ACC-20260329-014510", "prev_cycle_id": "ACC-20260329-004435", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T02:25:18", "cycle_id": "ACC-20260329-022518", "prev_cycle_id": "ACC-20260329-014510", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T02:52:32", "cycle_id": "ACC-20260329-025232", "prev_cycle_id": "ACC-20260329-022518", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T03:27:45", "cycle_id": "ACC-20260329-032745", "prev_cycle_id": "ACC-20260329-025232", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T04:06:00", "cycle_id": "ACC-20260329-040600", "prev_cycle_id": "ACC-20260329-032745", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T05:16:07", "cycle_id": "ACC-20260329-051611", "prev_cycle_id": "ACC-20260329-040600", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T09:52:37", "cycle_id": "ACC-20260329-095237", "prev_cycle_id": "ACC-20260329-051611", "insights": ["存储减少了 47187.8 MB（47187MB -> 0MB）", "内存消耗了 5375 MB"], "flags": ["STORAGE_DROP", "LOW_MEMORY"]}
+{"timestamp": "2026-03-29T10:22:52", "cycle_id": "ACC-20260329-102252", "prev_cycle_id": "ACC-20260329-095237", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T11:07:06", "cycle_id": "ACC-20260329-110706", "prev_cycle_id": "ACC-20260329-102252", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T11:41:24", "cycle_id": "ACC-20260329-114124", "prev_cycle_id": "ACC-20260329-110706", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T12:23:39", "cycle_id": "ACC-20260329-122339", "prev_cycle_id": "ACC-20260329-114124", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T12:49:56", "cycle_id": "ACC-20260329-124956", "prev_cycle_id": "ACC-20260329-122339", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T13:26:12", "cycle_id": "ACC-20260329-132612", "prev_cycle_id": "ACC-20260329-124956", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T14:08:26", "cycle_id": "ACC-20260329-140826", "prev_cycle_id": "ACC-20260329-132612", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T14:42:43", "cycle_id": "ACC-20260329-144243", "prev_cycle_id": "ACC-20260329-140826", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T15:12:58", "cycle_id": "ACC-20260329-151258", "prev_cycle_id": "ACC-20260329-144243", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T15:40:13", "cycle_id": "ACC-20260329-154013", "prev_cycle_id": "ACC-20260329-151258", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T16:11:27", "cycle_id": "ACC-20260329-161127", "prev_cycle_id": "ACC-20260329-154013", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T16:43:43", "cycle_id": "ACC-20260329-164343", "prev_cycle_id": "ACC-20260329-161127", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T17:11:57", "cycle_id": "ACC-20260329-171157", "prev_cycle_id": "ACC-20260329-164343", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T17:35:12", "cycle_id": "ACC-20260329-173512", "prev_cycle_id": "ACC-20260329-171157", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T18:19:31", "cycle_id": "ACC-20260329-181931", "prev_cycle_id": "ACC-20260329-173512", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T18:58:45", "cycle_id": "ACC-20260329-185845", "prev_cycle_id": "ACC-20260329-181931", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T19:38:01", "cycle_id": "ACC-20260329-193801", "prev_cycle_id": "ACC-20260329-185845", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T20:09:16", "cycle_id": "ACC-20260329-200916", "prev_cycle_id": "ACC-20260329-193801", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T20:30:34", "cycle_id": "ACC-20260329-203034", "prev_cycle_id": "ACC-20260329-200916", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T21:14:49", "cycle_id": "ACC-20260329-211449", "prev_cycle_id": "ACC-20260329-203034", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T21:40:06", "cycle_id": "ACC-20260329-214006", "prev_cycle_id": "ACC-20260329-211449", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T22:24:23", "cycle_id": "ACC-20260329-222423", "prev_cycle_id": "ACC-20260329-214006", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-29T23:08:39", "cycle_id": "ACC-20260329-230839", "prev_cycle_id": "ACC-20260329-222423", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T00:06:01", "cycle_id": "ACC-20260330-000601", "prev_cycle_id": "ACC-20260329-230839", "insights": ["模拟器内存释放了 17 MB（剩余5376MB）"], "flags": []}
+{"timestamp": "2026-03-30T00:41:16", "cycle_id": "ACC-20260330-004116", "prev_cycle_id": "ACC-20260330-000601", "insights": ["模拟器内存消耗了 10 MB（剩余5366MB）"], "flags": []}
+{"timestamp": "2026-03-30T01:10:30", "cycle_id": "ACC-20260330-011030", "prev_cycle_id": "ACC-20260330-004116", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T01:41:45", "cycle_id": "ACC-20260330-014145", "prev_cycle_id": "ACC-20260330-011030", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T02:02:58", "cycle_id": "ACC-20260330-020258", "prev_cycle_id": "ACC-20260330-014145", "insights": ["模拟器内存消耗了 15 MB（剩余5368MB）"], "flags": []}
+{"timestamp": "2026-03-30T02:38:11", "cycle_id": "ACC-20260330-023811", "prev_cycle_id": "ACC-20260330-020258", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T03:22:26", "cycle_id": "ACC-20260330-032226", "prev_cycle_id": "ACC-20260330-023811", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T03:59:40", "cycle_id": "ACC-20260330-035940", "prev_cycle_id": "ACC-20260330-032226", "insights": ["模拟器内存释放了 15 MB（剩余5373MB）"], "flags": []}
+{"timestamp": "2026-03-30T04:38:53", "cycle_id": "ACC-20260330-043853", "prev_cycle_id": "ACC-20260330-035940", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T05:02:07", "cycle_id": "ACC-20260330-050207", "prev_cycle_id": "ACC-20260330-043853", "insights": ["模拟器内存释放了 27 MB（剩余5401MB）"], "flags": []}
+{"timestamp": "2026-03-30T05:40:20", "cycle_id": "ACC-20260330-054020", "prev_cycle_id": "ACC-20260330-050207", "insights": ["模拟器内存消耗了 20 MB（剩余5381MB）"], "flags": []}
+{"timestamp": "2026-03-30T06:13:35", "cycle_id": "ACC-20260330-061335", "prev_cycle_id": "ACC-20260330-054020", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T06:44:49", "cycle_id": "ACC-20260330-064450", "prev_cycle_id": "ACC-20260330-061335", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T07:24:05", "cycle_id": "ACC-20260330-072405", "prev_cycle_id": "ACC-20260330-064450", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T08:05:18", "cycle_id": "ACC-20260330-080518", "prev_cycle_id": "ACC-20260330-072405", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T08:34:32", "cycle_id": "ACC-20260330-083432", "prev_cycle_id": "ACC-20260330-080518", "insights": ["模拟器内存释放了 16 MB（剩余5385MB）"], "flags": []}
+{"timestamp": "2026-03-30T08:59:47", "cycle_id": "ACC-20260330-085947", "prev_cycle_id": "ACC-20260330-083432", "insights": ["模拟器内存消耗了 25 MB（剩余5361MB）"], "flags": []}
+{"timestamp": "2026-03-30T09:32:01", "cycle_id": "ACC-20260330-093201", "prev_cycle_id": "ACC-20260330-085947", "insights": ["模拟器内存释放了 22 MB（剩余5383MB）"], "flags": []}
+{"timestamp": "2026-03-30T10:06:16", "cycle_id": "ACC-20260330-100616", "prev_cycle_id": "ACC-20260330-093201", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T10:17:36", "cycle_id": "ACC-20260330-101736", "prev_cycle_id": "ACC-20260330-100616", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T10:41:30", "cycle_id": "ACC-20260330-104130", "prev_cycle_id": "ACC-20260330-101736", "insights": ["模拟器内存消耗了 13 MB（剩余5362MB）"], "flags": []}
+{"timestamp": "2026-03-30T10:49:02", "cycle_id": "ACC-20260330-104902", "prev_cycle_id": "ACC-20260330-104130", "insights": ["模拟器内存释放了 25 MB（剩余5387MB）"], "flags": []}
+{"timestamp": "2026-03-30T11:08:45", "cycle_id": "ACC-20260330-110845", "prev_cycle_id": "ACC-20260330-104902", "insights": ["模拟器内存消耗了 13 MB（剩余5374MB）"], "flags": []}
+{"timestamp": "2026-03-30T11:24:08", "cycle_id": "ACC-20260330-112408", "prev_cycle_id": "ACC-20260330-110845", "insights": ["模拟器内存消耗了 20 MB（剩余5353MB）"], "flags": []}
+{"timestamp": "2026-03-30T11:40:59", "cycle_id": "ACC-20260330-114059", "prev_cycle_id": "ACC-20260330-112408", "insights": ["模拟器内存释放了 15 MB（剩余5369MB）"], "flags": []}
+{"timestamp": "2026-03-30T12:04:10", "cycle_id": "ACC-20260330-120410", "prev_cycle_id": "ACC-20260330-114059", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T12:04:13", "cycle_id": "ACC-20260330-120413", "prev_cycle_id": "ACC-20260330-120410", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T12:25:11", "cycle_id": "ACC-20260330-122511", "prev_cycle_id": "ACC-20260330-120413", "insights": ["模拟器内存消耗了 23 MB（剩余5358MB）"], "flags": []}
+{"timestamp": "2026-03-30T12:48:26", "cycle_id": "ACC-20260330-124826", "prev_cycle_id": "ACC-20260330-122511", "insights": ["模拟器内存释放了 25 MB（剩余5383MB）"], "flags": []}
+{"timestamp": "2026-03-30T12:56:14", "cycle_id": "ACC-20260330-125614", "prev_cycle_id": "ACC-20260330-124826", "insights": ["模拟器内存消耗了 14 MB（剩余5369MB）"], "flags": []}
+{"timestamp": "2026-03-30T13:23:40", "cycle_id": "ACC-20260330-132340", "prev_cycle_id": "ACC-20260330-125614", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T13:40:17", "cycle_id": "ACC-20260330-134017", "prev_cycle_id": "ACC-20260330-132340", "insights": ["模拟器内存释放了 15 MB（剩余5379MB）"], "flags": []}
+{"timestamp": "2026-03-30T13:50:54", "cycle_id": "ACC-20260330-135054", "prev_cycle_id": "ACC-20260330-134017", "insights": ["模拟器内存消耗了 12 MB（剩余5367MB）"], "flags": []}
+{"timestamp": "2026-03-30T14:16:07", "cycle_id": "ACC-20260330-141607", "prev_cycle_id": "ACC-20260330-135054", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T14:24:19", "cycle_id": "ACC-20260330-142419", "prev_cycle_id": "ACC-20260330-141607", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T14:45:21", "cycle_id": "ACC-20260330-144521", "prev_cycle_id": "ACC-20260330-142419", "insights": ["模拟器内存消耗了 14 MB（剩余5360MB）"], "flags": []}
+{"timestamp": "2026-03-30T15:08:21", "cycle_id": "ACC-20260330-150821", "prev_cycle_id": "ACC-20260330-144521", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T15:08:37", "cycle_id": "ACC-20260330-150837", "prev_cycle_id": "ACC-20260330-150821", "insights": ["模拟器内存释放了 11 MB（剩余5366MB）"], "flags": []}
+{"timestamp": "2026-03-30T15:43:25", "cycle_id": "ACC-20260330-154325", "prev_cycle_id": "ACC-20260330-150837", "insights": ["模拟器内存释放了 15 MB（剩余5381MB）"], "flags": []}
+{"timestamp": "2026-03-30T15:52:52", "cycle_id": "ACC-20260330-155252", "prev_cycle_id": "ACC-20260330-154325", "insights": ["模拟器内存释放了 14 MB（剩余5395MB）"], "flags": []}
+{"timestamp": "2026-03-30T16:15:06", "cycle_id": "ACC-20260330-161506", "prev_cycle_id": "ACC-20260330-155252", "insights": ["模拟器内存消耗了 21 MB（剩余5374MB）"], "flags": []}
+{"timestamp": "2026-03-30T16:16:26", "cycle_id": "ACC-20260330-161626", "prev_cycle_id": "ACC-20260330-161506", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T16:47:21", "cycle_id": "ACC-20260330-164721", "prev_cycle_id": "ACC-20260330-161626", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T16:51:30", "cycle_id": "ACC-20260330-165130", "prev_cycle_id": "ACC-20260330-164721", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T17:17:33", "cycle_id": "ACC-20260330-171733", "prev_cycle_id": "ACC-20260330-165130", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T17:27:37", "cycle_id": "ACC-20260330-172737", "prev_cycle_id": "ACC-20260330-171733", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T17:57:34", "cycle_id": "ACC-20260330-175734", "prev_cycle_id": "ACC-20260330-172737", "insights": ["模拟器内存释放了 18 MB（剩余5374MB）"], "flags": []}
+{"timestamp": "2026-03-30T18:00:54", "cycle_id": "ACC-20260330-180054", "prev_cycle_id": "ACC-20260330-175734", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T18:31:39", "cycle_id": "ACC-20260330-183139", "prev_cycle_id": "ACC-20260330-180054", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T18:40:09", "cycle_id": "ACC-20260330-184009", "prev_cycle_id": "ACC-20260330-183139", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T19:13:41", "cycle_id": "ACC-20260330-191341", "prev_cycle_id": "ACC-20260330-184009", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T19:17:25", "cycle_id": "ACC-20260330-191725", "prev_cycle_id": "ACC-20260330-191341", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T19:40:43", "cycle_id": "ACC-20260330-194043", "prev_cycle_id": "ACC-20260330-191725", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T19:56:39", "cycle_id": "ACC-20260330-195639", "prev_cycle_id": "ACC-20260330-194043", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T20:18:44", "cycle_id": "ACC-20260330-201844", "prev_cycle_id": "ACC-20260330-195639", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T20:27:55", "cycle_id": "ACC-20260330-202755", "prev_cycle_id": "ACC-20260330-201844", "insights": ["设备状态稳定，无显著变化"], "flags": []}
+{"timestamp": "2026-03-30T20:41:48", "cycle_id": "ACC-20260330-204148", "prev_cycle_id": "ACC-20260330-202755", "insights": ["模拟器内存消耗了 17 MB（剩余5353MB）"], "flags": []}
+{"timestamp": "2026-03-30T20:52:09", "cycle_id": "ACC-20260330-205209", "prev_cycle_id": "ACC-20260330-204148", "insights": ["模拟器内存释放了 12 MB（剩余5365MB）"], "flags": []}

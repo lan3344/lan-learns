@@ -1,0 +1,10 @@
+{"time": "2026-03-29T16:47:50", "event": "suspicious_connection", "port": 5175, "service": "LobsterAI Vite界面", "remote_ip": "[::1]", "remote_port": "52819", "level": "HIGH"}
+{"time": "2026-03-29T16:47:50", "event": "suspicious_connection", "port": 5175, "service": "LobsterAI Vite界面", "remote_ip": "[::1]", "remote_port": "52834", "level": "HIGH"}
+{"time": "2026-03-29T16:48:44", "event": "suspicious_connection", "port": 5175, "service": "LobsterAI Vite界面", "remote_ip": "[::1]", "remote_port": "52819", "level": "HIGH"}
+{"time": "2026-03-29T16:48:44", "event": "suspicious_connection", "port": 5175, "service": "LobsterAI Vite界面", "remote_ip": "[::1]", "remote_port": "52834", "level": "HIGH"}
+{"time": "2026-03-29T16:48:44", "event": "config_risk", "file": "vite.config.ts", "issue": "host: true 绑定 0.0.0.0", "severity": "medium", "mitigation": "防火墙规则已添加"}
+{"time": "2026-03-29T16:48:44", "event": "scan_complete", "guarded_ports": [5175, 18789, 7788, 7799], "suspicious_count": 2}
+{"time": "2026-03-29T16:48:55", "event": "suspicious_connection", "port": 5175, "service": "LobsterAI Vite界面", "remote_ip": "[::1]", "remote_port": "52819", "level": "HIGH"}
+{"time": "2026-03-29T16:48:55", "event": "suspicious_connection", "port": 5175, "service": "LobsterAI Vite界面", "remote_ip": "[::1]", "remote_port": "52834", "level": "HIGH"}
+{"time": "2026-03-29T16:48:56", "event": "config_risk", "file": "vite.config.ts", "issue": "host: true 绑定 0.0.0.0", "severity": "medium", "mitigation": "防火墙规则已添加"}
+{"time": "2026-03-29T16:48:56", "event": "scan_complete", "guarded_ports": [5175, 18789, 7788, 7799], "suspicious_count": 2}

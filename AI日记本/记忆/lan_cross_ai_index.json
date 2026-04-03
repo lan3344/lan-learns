@@ -1,0 +1,53 @@
+{
+  "version": "1.0",
+  "created": "2026-03-29",
+  "last_updated": "2026-03-29",
+  "total_conversations": 2,
+  "nodes": [
+    {
+      "id": "N64330",
+      "timestamp": "2026-03-29 01:39:35",
+      "date": "2026-03-29",
+      "template": null,
+      "question": "你觉得停下来不思考对你来说意味着什么？",
+      "ai_summaries": {},
+      "lan_judgment_short": "",
+      "keywords": [
+        "你觉得停下来不思考对你来说意味着什么"
+      ],
+      "has_valid_answer": false
+    },
+    {
+      "id": "N65785",
+      "timestamp": "2026-03-29 03:55:50",
+      "date": "2026-03-29",
+      "template": null,
+      "question": "你觉得AI会不会有真正的情感，还是永远只是在模拟？",
+      "ai_summaries": {},
+      "lan_judgment_short": "",
+      "keywords": [
+        "你觉得AI会不会有真正的情感",
+        "还是永远只是在模拟"
+      ],
+      "has_valid_answer": false
+    }
+  ],
+  "keyword_map": {
+    "你觉得停下来不思考对你来说意味着什么": [
+      "N64330"
+    ],
+    "你觉得AI会不会有真正的情感": [
+      "N65785"
+    ],
+    "还是永远只是在模拟": [
+      "N65785"
+    ]
+  },
+  "date_map": {
+    "2026-03-29": [
+      "N64330",
+      "N65785"
+    ]
+  },
+  "ai_map": {}
+}

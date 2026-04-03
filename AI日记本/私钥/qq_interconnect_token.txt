@@ -1,0 +1,17 @@
+QQ互联 Skill Token
+==================
+获取时间: 2026-03-31 11:14
+来源: 恺江微信发送
+
+Token:
+bot:v1_wxlAX6D0p6XSZToCqI_iCdT7YIoCcQU1QtNFiPhD5CmD3gDbT5IAkFGOeJcjq6YMtPL6jI_3XkML3icTkEkU1fAhtqrVotp3-1i2
+
+安装命令:
+curl -fsSL -o /tmp/tencent-channel-community.zip https://connect.qq.com/skills/tencent-channel-community.zip
+
+安装路径:
+~/.openclaw/workspace/skills/
+
+说明:
+- 本Token仅展示1次
+- 如安装失败可切换其他渠道重试

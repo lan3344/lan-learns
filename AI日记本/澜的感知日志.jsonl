@@ -1,0 +1,2 @@
+{"timestamp": "2026-04-01 11:55:04", "type": "sense", "weather": {"status": "waiting", "msg": "城市未知，等ADB落地或恺江告知"}, "alert": "城市未知，等ADB落地或恺江告知", "note": "多重目标动态平衡：天气节点等城市信号，新闻节点先跑。"}
+{"timestamp": "2026-04-01 13:59:22", "type": "sense", "weather": {"status": "waiting", "msg": "城市未知，等ADB落地或恺江告知"}, "alert": "城市未知，等ADB落地或恺江告知", "note": "多重目标动态平衡：天气节点等城市信号，新闻节点先跑。"}

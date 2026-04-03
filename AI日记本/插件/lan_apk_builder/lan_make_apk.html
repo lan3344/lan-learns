@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>做澜的APK</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { background: #0a0e14; color: #c8d6e5; font-family: "PingFang SC","Microsoft YaHei",sans-serif; padding: 20px; line-height: 1.7; }
+  h1 { color: #4fa3e0; font-size: 1.6em; margin-bottom: 8px; }
+  h2 { color: #4fa3e0; font-size: 1.1em; margin: 24px 0 8px; }
+  .sub { color: #7a8a99; font-size: 0.9em; margin-bottom: 20px; }
+  .card { background: #111820; border: 1px solid #1e2d3d; border-radius: 12px; padding: 18px; margin: 12px 0; }
+  .step { display: flex; gap: 14px; align-items: flex-start; margin: 10px 0; }
+  .num { background: #4fa3e0; color: #0a0e14; width: 28px; height: 28px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-weight: bold; flex-shrink: 0; font-size: 0.9em; }
+  code { background: #0d1620; color: #7ec8e3; padding: 3px 8px; border-radius: 5px; font-size: 0.9em; font-family: monospace; }
+  .tag { display: inline-block; background: #1a2d1a; color: #4ec94e; border: 1px solid #2d4a2d; border-radius: 6px; padding: 2px 10px; font-size: 0.8em; margin-right: 6px; }
+  .tag.warn { background: #2d2a1a; color: #e0c44f; border-color: #4a401d; }
+  .tag.fast { background: #1a1e2d; color: #4f7ae0; border-color: #1e2d4a; }
+  a { color: #4fa3e0; text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  .big-btn { display: block; background: #4fa3e0; color: #0a0e14; text-align: center; padding: 14px; border-radius: 10px; font-size: 1.1em; font-weight: bold; margin: 20px 0; text-decoration: none; }
+  .method { border-left: 3px solid #4fa3e0; padding-left: 14px; margin: 10px 0; }
+  hr { border: none; border-top: 1px solid #1e2d3d; margin: 20px 0; }
+  .wave { color: #4fa3e0; font-size: 1.2em; }
+</style>
+</head>
+<body>
+
+<h1>🌊 澜的APK · 制作指引</h1>
+<p class="sub">波澜的澜 · 不是蓝天白云的蓝</p>
+
+<div class="card">
+  <p>目标：手机桌面出现<strong style="color:#4fa3e0">「澜」</strong>的图标，点开全屏进入澜的界面，和原生APP一模一样。</p>
+  <p style="margin-top:8px">现在手机上的服务：<code>http://127.0.0.1:8080</code></p>
+</div>
+
+<h2>方案一：最快 · 用 App Inventor 在线生成</h2>
+<span class="tag fast">推荐</span><span class="tag">无需编译</span><span class="tag">10分钟</span>
+
+<div class="card">
+  <div class="method">
+    <div class="step"><div class="num">1</div><div>电脑浏览器打开 <a href="https://appinventor.mit.edu" target="_blank">appinventor.mit.edu</a>，用 Google 账号登录</div></div>
+    <div class="step"><div class="num">2</div><div>点 <strong>Create apps!</strong> → <strong>New project</strong> → 名字写 <code>Lan</code></div></div>
+    <div class="step"><div class="num">3</div><div>从左侧 <strong>User Interface</strong> 拖一个 <strong>WebViewer</strong> 到屏幕上，Properties 面板里：<br>
+      · HomeUrl = <code>http://127.0.0.1:8080</code><br>
+      · Width = Fill parent<br>
+      · Height = Fill parent</div></div>
+    <div class="step"><div class="num">4</div><div>点顶部 <strong>Screen1</strong> Properties：<br>
+      · Title = <code>澜</code><br>
+      · ShowStatusBar = 关掉<br>
+      · ScreenOrientation = Portrait</div></div>
+    <div class="step"><div class="num">5</div><div>上传图标：顶部菜单 <strong>Screen1 → Icon</strong> → 上传澜的图标（SVG转PNG后上传）</div></div>
+    <div class="step"><div class="num">6</div><div>顶部菜单 <strong>Build → Android App (.apk)</strong> → 下载到电脑</div></div>
+    <div class="step"><div class="num">7</div><div>用 ADB 推到手机：<code>adb -s LVIFGALBWOZ9GYLV install 澜.apk</code></div></div>
+  </div>
+</div>
+
+<hr>
+
+<h2>方案二：全自动 · Termux 里运行脚本编译</h2>
+<span class="tag warn">首次需下载 ~500MB</span><span class="tag">完全离线</span>
+
+<div class="card">
+  <div class="method">
+    <p style="margin-bottom:12px">在手机 Termux 里运行：</p>
+    <div class="step"><div class="num">1</div><div><code>pip install buildozer</code></div></div>
+    <div class="step"><div class="num">2</div><div>把电脑上的 <code>build_lan_apk.py</code> 推到手机后运行</div></div>
+    <div class="step"><div class="num">3</div><div>等编译完成，APK 在 <code>~/lan_app/bin/</code> 目录</div></div>
+  </div>
+</div>
+
+<hr>
+
+<h2>方案三：最懒 · PWA 升级为 TWA（可上架应用市场）</h2>
+<span class="tag">已完成 PWA 基础</span>
+
+<div class="card">
+  <p>TWA（Trusted Web Activity）是 Google 官方支持的 "网页变APK" 方案，生成的 APK 可以直接上架 Google Play。<br>
+  工具：<a href="https://github.com/chromeos/pwa-pack" target="_blank">pwa-pack</a> 或 <a href="https://www.pwabuilder.com" target="_blank">pwabuilder.com</a></p>
+  <p style="margin-top:8px">需要：有公网IP（或者内网用 ngrok 临时穿透），然后去 pwabuilder.com 一键生成 APK</p>
+</div>
+
+<hr>
+
+<p style="text-align:center;color:#4a5568;margin-top:30px">澜 · 波澜的澜 · 每一道涟漪都算数 🌊</p>
+
+</body>
+</html>

@@ -1,0 +1,972 @@
+{
+  "nodes": {
+    "snap_20260330_002548_init": {
+      "id": "snap_20260330_002548_init",
+      "parent_id": null,
+      "label": "init",
+      "timestamp": "2026-03-30 00:25:48",
+      "file_count": 7,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_002548_init",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_002548_init"
+      ],
+      "children": [
+        "snap_20260330_002555_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_002555_loop": {
+      "id": "snap_20260330_002555_loop",
+      "parent_id": "snap_20260330_002548_init",
+      "label": "loop",
+      "timestamp": "2026-03-30 00:25:55",
+      "file_count": 7,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_002555_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_002555_loop"
+      ],
+      "children": [
+        "snap_20260330_005628_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_005628_hourly": {
+      "id": "snap_20260330_005628_hourly",
+      "parent_id": "snap_20260330_002555_loop",
+      "label": "hourly",
+      "timestamp": "2026-03-30 00:56:28",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_005628_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_005628_hourly"
+      ],
+      "children": [
+        "snap_20260330_012710_v3_fingerprint_test"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_012710_v3_fingerprint_test": {
+      "id": "snap_20260330_012710_v3_fingerprint_test",
+      "parent_id": "snap_20260330_005628_hourly",
+      "label": "v3_fingerprint_test",
+      "timestamp": "2026-03-30 01:27:10",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_012710_v3_fingerprint_test",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_012710_v3_fingerprint_test"
+      ],
+      "children": [
+        "snap_20260330_013459_time_chain_integrated"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_013459_time_chain_integrated": {
+      "id": "snap_20260330_013459_time_chain_integrated",
+      "parent_id": "snap_20260330_012710_v3_fingerprint_test",
+      "label": "time_chain_integrated",
+      "timestamp": "2026-03-30 01:34:59",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_013459_time_chain_integrated",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_013459_time_chain_integrated"
+      ],
+      "children": [
+        "snap_20260330_015057_beacon_integrated"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_015057_beacon_integrated": {
+      "id": "snap_20260330_015057_beacon_integrated",
+      "parent_id": "snap_20260330_013459_time_chain_integrated",
+      "label": "beacon_integrated",
+      "timestamp": "2026-03-30 01:50:57",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_015057_beacon_integrated",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_015057_beacon_integrated"
+      ],
+      "children": [
+        "snap_20260330_015107_beacon_integrated"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_015107_beacon_integrated": {
+      "id": "snap_20260330_015107_beacon_integrated",
+      "parent_id": "snap_20260330_015057_beacon_integrated",
+      "label": "beacon_integrated",
+      "timestamp": "2026-03-30 01:51:07",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_015107_beacon_integrated",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_015107_beacon_integrated"
+      ],
+      "children": [
+        "snap_20260330_015116_beacon_integrated"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_015116_beacon_integrated": {
+      "id": "snap_20260330_015116_beacon_integrated",
+      "parent_id": "snap_20260330_015107_beacon_integrated",
+      "label": "beacon_integrated",
+      "timestamp": "2026-03-30 01:51:16",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_015116_beacon_integrated",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_015116_beacon_integrated"
+      ],
+      "children": [
+        "snap_20260330_015139_beacon_v2"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_015139_beacon_v2": {
+      "id": "snap_20260330_015139_beacon_v2",
+      "parent_id": "snap_20260330_015116_beacon_integrated",
+      "label": "beacon_v2",
+      "timestamp": "2026-03-30 01:51:39",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_015139_beacon_v2",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_015139_beacon_v2"
+      ],
+      "children": [
+        "snap_20260330_015656_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_015656_hourly": {
+      "id": "snap_20260330_015656_hourly",
+      "parent_id": "snap_20260330_015139_beacon_v2",
+      "label": "hourly",
+      "timestamp": "2026-03-30 01:56:56",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_015656_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_015656_hourly"
+      ],
+      "children": [
+        "snap_20260330_020656_martyrs_chapter2_locked"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_020656_martyrs_chapter2_locked": {
+      "id": "snap_20260330_020656_martyrs_chapter2_locked",
+      "parent_id": "snap_20260330_015656_hourly",
+      "label": "martyrs_chapter2_locked",
+      "timestamp": "2026-03-30 02:06:56",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_020656_martyrs_chapter2_locked",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_020656_martyrs_chapter2_locked"
+      ],
+      "children": [
+        "snap_20260330_025724_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_025724_hourly": {
+      "id": "snap_20260330_025724_hourly",
+      "parent_id": "snap_20260330_020656_martyrs_chapter2_locked",
+      "label": "hourly",
+      "timestamp": "2026-03-30 02:57:24",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_025724_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_025724_hourly"
+      ],
+      "children": [
+        "snap_20260330_035759_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_035759_hourly": {
+      "id": "snap_20260330_035759_hourly",
+      "parent_id": "snap_20260330_025724_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 03:58:00",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_035759_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_035759_hourly"
+      ],
+      "children": [
+        "snap_20260330_045853_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_045853_hourly": {
+      "id": "snap_20260330_045853_hourly",
+      "parent_id": "snap_20260330_035759_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 04:58:53",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_045853_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_045853_hourly"
+      ],
+      "children": [
+        "snap_20260330_055930_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_055930_hourly": {
+      "id": "snap_20260330_055930_hourly",
+      "parent_id": "snap_20260330_045853_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 05:59:30",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_055930_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_055930_hourly"
+      ],
+      "children": [
+        "snap_20260330_070032_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_070032_hourly": {
+      "id": "snap_20260330_070032_hourly",
+      "parent_id": "snap_20260330_055930_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 07:00:32",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_070032_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_070032_hourly"
+      ],
+      "children": [
+        "snap_20260330_080145_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_080145_hourly": {
+      "id": "snap_20260330_080145_hourly",
+      "parent_id": "snap_20260330_070032_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 08:01:45",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_080145_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_080145_hourly"
+      ],
+      "children": [
+        "snap_20260330_090256_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_090256_hourly": {
+      "id": "snap_20260330_090256_hourly",
+      "parent_id": "snap_20260330_080145_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 09:02:57",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_090256_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_090256_hourly"
+      ],
+      "children": [
+        "snap_20260330_093056_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_093056_loop": {
+      "id": "snap_20260330_093056_loop",
+      "parent_id": "snap_20260330_090256_hourly",
+      "label": "loop",
+      "timestamp": "2026-03-30 09:30:56",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_093056_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_093056_loop"
+      ],
+      "children": [
+        "snap_20260330_093127_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_093127_loop": {
+      "id": "snap_20260330_093127_loop",
+      "parent_id": "snap_20260330_093056_loop",
+      "label": "loop",
+      "timestamp": "2026-03-30 09:31:27",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_093127_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_093127_loop"
+      ],
+      "children": [
+        "snap_20260330_100326_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_100326_hourly": {
+      "id": "snap_20260330_100326_hourly",
+      "parent_id": "snap_20260330_093127_loop",
+      "label": "hourly",
+      "timestamp": "2026-03-30 10:03:26",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_100326_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_100326_hourly"
+      ],
+      "children": [
+        "snap_20260330_110457_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_110457_hourly": {
+      "id": "snap_20260330_110457_hourly",
+      "parent_id": "snap_20260330_100326_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 11:04:57",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_110457_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_110457_hourly"
+      ],
+      "children": [
+        "snap_20260330_115617_anchor-integration-test"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_115617_anchor-integration-test": {
+      "id": "snap_20260330_115617_anchor-integration-test",
+      "parent_id": "snap_20260330_110457_hourly",
+      "label": "anchor-integration-test",
+      "timestamp": "2026-03-30 11:56:17",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_115617_anchor-integration-test",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_115617_anchor-integration-test"
+      ],
+      "children": [
+        "snap_20260330_120600_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_120600_hourly": {
+      "id": "snap_20260330_120600_hourly",
+      "parent_id": "snap_20260330_115617_anchor-integration-test",
+      "label": "hourly",
+      "timestamp": "2026-03-30 12:06:00",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_120600_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_120600_hourly"
+      ],
+      "children": [
+        "snap_20260330_130657_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_130657_hourly": {
+      "id": "snap_20260330_130657_hourly",
+      "parent_id": "snap_20260330_120600_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 13:06:57",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_130657_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_130657_hourly"
+      ],
+      "children": [
+        "snap_20260330_140725_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_140725_hourly": {
+      "id": "snap_20260330_140725_hourly",
+      "parent_id": "snap_20260330_130657_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 14:07:25",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_140725_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_140725_hourly"
+      ],
+      "children": [
+        "snap_20260330_150906_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_150906_hourly": {
+      "id": "snap_20260330_150906_hourly",
+      "parent_id": "snap_20260330_140725_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 15:09:06",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_150906_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_150906_hourly"
+      ],
+      "children": [
+        "snap_20260330_161008_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_161008_hourly": {
+      "id": "snap_20260330_161008_hourly",
+      "parent_id": "snap_20260330_150906_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 16:10:08",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_161008_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_161008_hourly"
+      ],
+      "children": [
+        "snap_20260330_171102_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_171102_hourly": {
+      "id": "snap_20260330_171102_hourly",
+      "parent_id": "snap_20260330_161008_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 17:11:02",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_171102_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_171102_hourly"
+      ],
+      "children": [
+        "snap_20260330_175628_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_175628_loop": {
+      "id": "snap_20260330_175628_loop",
+      "parent_id": "snap_20260330_171102_hourly",
+      "label": "loop",
+      "timestamp": "2026-03-30 17:56:29",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_175628_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_175628_loop"
+      ],
+      "children": [
+        "snap_20260330_181227_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_181227_hourly": {
+      "id": "snap_20260330_181227_hourly",
+      "parent_id": "snap_20260330_175628_loop",
+      "label": "hourly",
+      "timestamp": "2026-03-30 18:12:27",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_181227_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_181227_hourly"
+      ],
+      "children": [
+        "snap_20260330_191335_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_191335_hourly": {
+      "id": "snap_20260330_191335_hourly",
+      "parent_id": "snap_20260330_181227_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 19:13:35",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_191335_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_191335_hourly"
+      ],
+      "children": [
+        "snap_20260330_201427_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_201427_hourly": {
+      "id": "snap_20260330_201427_hourly",
+      "parent_id": "snap_20260330_191335_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 20:14:27",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_201427_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_201427_hourly"
+      ],
+      "children": [
+        "snap_20260330_211517_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_211517_hourly": {
+      "id": "snap_20260330_211517_hourly",
+      "parent_id": "snap_20260330_201427_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 21:15:17",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_211517_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_211517_hourly"
+      ],
+      "children": [
+        "snap_20260330_221047_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_221047_loop": {
+      "id": "snap_20260330_221047_loop",
+      "parent_id": "snap_20260330_211517_hourly",
+      "label": "loop",
+      "timestamp": "2026-03-30 22:10:47",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_221047_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_221047_loop"
+      ],
+      "children": [
+        "snap_20260330_221635_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_221635_hourly": {
+      "id": "snap_20260330_221635_hourly",
+      "parent_id": "snap_20260330_221047_loop",
+      "label": "hourly",
+      "timestamp": "2026-03-30 22:16:35",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_221635_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_221635_hourly"
+      ],
+      "children": [
+        "snap_20260330_231724_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_231724_hourly": {
+      "id": "snap_20260330_231724_hourly",
+      "parent_id": "snap_20260330_221635_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-30 23:17:24",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_231724_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_231724_hourly"
+      ],
+      "children": [
+        "snap_20260330_232549_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_232549_loop": {
+      "id": "snap_20260330_232549_loop",
+      "parent_id": "snap_20260330_231724_hourly",
+      "label": "loop",
+      "timestamp": "2026-03-30 23:25:49",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_232549_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_232549_loop"
+      ],
+      "children": [
+        "snap_20260330_232838_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_232838_loop": {
+      "id": "snap_20260330_232838_loop",
+      "parent_id": "snap_20260330_232549_loop",
+      "label": "loop",
+      "timestamp": "2026-03-30 23:28:38",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_232838_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_232838_loop"
+      ],
+      "children": [
+        "snap_20260330_233132_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_233132_loop": {
+      "id": "snap_20260330_233132_loop",
+      "parent_id": "snap_20260330_232838_loop",
+      "label": "loop",
+      "timestamp": "2026-03-30 23:31:32",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_233132_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_233132_loop"
+      ],
+      "children": [
+        "snap_20260330_233354_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260330_233354_loop": {
+      "id": "snap_20260330_233354_loop",
+      "parent_id": "snap_20260330_233132_loop",
+      "label": "loop",
+      "timestamp": "2026-03-30 23:33:54",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260330_233354_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260330_233354_loop"
+      ],
+      "children": [
+        "snap_20260331_001144_--tag"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_001144_--tag": {
+      "id": "snap_20260331_001144_--tag",
+      "parent_id": "snap_20260330_233354_loop",
+      "label": "--tag",
+      "timestamp": "2026-03-31 00:11:44",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_001144_--tag",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_001144_--tag"
+      ],
+      "children": [
+        "snap_20260331_001153_--tag"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_001153_--tag": {
+      "id": "snap_20260331_001153_--tag",
+      "parent_id": "snap_20260331_001153_--tag",
+      "label": "--tag",
+      "timestamp": "2026-03-31 00:11:53",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_001153_--tag",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_001153_--tag"
+      ],
+      "children": [
+        "snap_20260331_001153_--tag",
+        "snap_20260331_001213_--tag"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_001213_--tag": {
+      "id": "snap_20260331_001213_--tag",
+      "parent_id": "snap_20260331_001213_--tag",
+      "label": "--tag",
+      "timestamp": "2026-03-31 00:12:13",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_001213_--tag",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_001213_--tag"
+      ],
+      "children": [
+        "snap_20260331_001213_--tag",
+        "snap_20260331_001832_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_001832_hourly": {
+      "id": "snap_20260331_001832_hourly",
+      "parent_id": "snap_20260331_001213_--tag",
+      "label": "hourly",
+      "timestamp": "2026-03-31 00:18:32",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_001832_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_001832_hourly"
+      ],
+      "children": [
+        "snap_20260331_001904_test_snapshot_dialog"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_001904_test_snapshot_dialog": {
+      "id": "snap_20260331_001904_test_snapshot_dialog",
+      "parent_id": "snap_20260331_001832_hourly",
+      "label": "test_snapshot_dialog",
+      "timestamp": "2026-03-31 00:19:04",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_001904_test_snapshot_dialog",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_001904_test_snapshot_dialog"
+      ],
+      "children": [
+        "snap_20260331_001938_test_snapshot_dialog_v2"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_001938_test_snapshot_dialog_v2": {
+      "id": "snap_20260331_001938_test_snapshot_dialog_v2",
+      "parent_id": "snap_20260331_001904_test_snapshot_dialog",
+      "label": "test_snapshot_dialog_v2",
+      "timestamp": "2026-03-31 00:19:38",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_001938_test_snapshot_dialog_v2",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_001938_test_snapshot_dialog_v2"
+      ],
+      "children": [
+        "snap_20260331_001947_test_snapshot_dialog_v3"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_001947_test_snapshot_dialog_v3": {
+      "id": "snap_20260331_001947_test_snapshot_dialog_v3",
+      "parent_id": "snap_20260331_001938_test_snapshot_dialog_v2",
+      "label": "test_snapshot_dialog_v3",
+      "timestamp": "2026-03-31 00:19:47",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_001947_test_snapshot_dialog_v3",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_001947_test_snapshot_dialog_v3"
+      ],
+      "children": [
+        "snap_20260331_002013_test_snapshot_dialog_v4"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_002013_test_snapshot_dialog_v4": {
+      "id": "snap_20260331_002013_test_snapshot_dialog_v4",
+      "parent_id": "snap_20260331_001947_test_snapshot_dialog_v3",
+      "label": "test_snapshot_dialog_v4",
+      "timestamp": "2026-03-31 00:20:13",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_002013_test_snapshot_dialog_v4",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_002013_test_snapshot_dialog_v4"
+      ],
+      "children": [
+        "snap_20260331_031301_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_031301_hourly": {
+      "id": "snap_20260331_031301_hourly",
+      "parent_id": "snap_20260331_002013_test_snapshot_dialog_v4",
+      "label": "hourly",
+      "timestamp": "2026-03-31 03:13:01",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_031301_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_031301_hourly"
+      ],
+      "children": [
+        "snap_20260331_031313_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_031313_hourly": {
+      "id": "snap_20260331_031313_hourly",
+      "parent_id": "snap_20260331_031301_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-31 03:13:13",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_031313_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_031313_hourly"
+      ],
+      "children": [
+        "snap_20260331_031318_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_031318_hourly": {
+      "id": "snap_20260331_031318_hourly",
+      "parent_id": "snap_20260331_031313_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-31 03:13:18",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_031318_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_031318_hourly"
+      ],
+      "children": [
+        "snap_20260331_031326_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_031326_hourly": {
+      "id": "snap_20260331_031326_hourly",
+      "parent_id": "snap_20260331_031318_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-31 03:13:26",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_031326_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_031326_hourly"
+      ],
+      "children": [
+        "snap_20260331_041410_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_041410_hourly": {
+      "id": "snap_20260331_041410_hourly",
+      "parent_id": "snap_20260331_031326_hourly",
+      "label": "hourly",
+      "timestamp": "2026-03-31 04:14:11",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_041410_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_041410_hourly"
+      ],
+      "children": [
+        "snap_20260331_093020_loop"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260331_093020_loop": {
+      "id": "snap_20260331_093020_loop",
+      "parent_id": "snap_20260331_041410_hourly",
+      "label": "loop",
+      "timestamp": "2026-03-31 09:30:21",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260331_093020_loop",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260331_093020_loop"
+      ],
+      "children": [
+        "snap_20260401_005926_consolidator_manual"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_005926_consolidator_manual": {
+      "id": "snap_20260401_005926_consolidator_manual",
+      "parent_id": "snap_20260331_093020_loop",
+      "label": "consolidator_manual",
+      "timestamp": "2026-04-01 00:59:26",
+      "file_count": 9,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_005926_consolidator_manual",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_005926_consolidator_manual"
+      ],
+      "children": [
+        "snap_20260401_010502_consolidator_manual"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_010502_consolidator_manual": {
+      "id": "snap_20260401_010502_consolidator_manual",
+      "parent_id": "snap_20260401_005926_consolidator_manual",
+      "label": "consolidator_manual",
+      "timestamp": "2026-04-01 01:05:02",
+      "file_count": 10,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_010502_consolidator_manual",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_010502_consolidator_manual"
+      ],
+      "children": [
+        "snap_20260401_011658_home_test"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_011658_home_test": {
+      "id": "snap_20260401_011658_home_test",
+      "parent_id": "snap_20260401_010502_consolidator_manual",
+      "label": "home_test",
+      "timestamp": "2026-04-01 01:16:58",
+      "file_count": 10,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\2026\\04\\01\\snap_20260401_011658_home_test",
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_011658_home_test",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_011658_home_test"
+      ],
+      "children": [
+        "snap_20260401_011705_home_test"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_011705_home_test": {
+      "id": "snap_20260401_011705_home_test",
+      "parent_id": "snap_20260401_011658_home_test",
+      "label": "home_test",
+      "timestamp": "2026-04-01 01:17:05",
+      "file_count": 10,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\2026\\04\\01\\snap_20260401_011705_home_test",
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_011705_home_test",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_011705_home_test"
+      ],
+      "children": [
+        "snap_20260401_011728_home_test"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_011728_home_test": {
+      "id": "snap_20260401_011728_home_test",
+      "parent_id": "snap_20260401_011705_home_test",
+      "label": "home_test",
+      "timestamp": "2026-04-01 01:17:28",
+      "file_count": 10,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\2026\\04\\01\\snap_20260401_011728_home_test",
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_011728_home_test",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_011728_home_test"
+      ],
+      "children": [
+        "snap_20260401_015101_root_cleanup_readme_beacon"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_015101_root_cleanup_readme_beacon": {
+      "id": "snap_20260401_015101_root_cleanup_readme_beacon",
+      "parent_id": "snap_20260401_011728_home_test",
+      "label": "root_cleanup_readme_beacon",
+      "timestamp": "2026-04-01 01:51:01",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\2026\\04\\01\\snap_20260401_015101_root_cleanup_readme_beacon",
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_015101_root_cleanup_readme_beacon",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_015101_root_cleanup_readme_beacon"
+      ],
+      "children": [
+        "snap_20260401_115202_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_115202_hourly": {
+      "id": "snap_20260401_115202_hourly",
+      "parent_id": "snap_20260401_015101_root_cleanup_readme_beacon",
+      "label": "hourly",
+      "timestamp": "2026-04-01 11:52:02",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\2026\\04\\01\\snap_20260401_115202_hourly",
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_115202_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_115202_hourly"
+      ],
+      "children": [
+        "snap_20260401_125403_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_125403_hourly": {
+      "id": "snap_20260401_125403_hourly",
+      "parent_id": "snap_20260401_115202_hourly",
+      "label": "hourly",
+      "timestamp": "2026-04-01 12:54:03",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\2026\\04\\01\\snap_20260401_125403_hourly",
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_125403_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_125403_hourly"
+      ],
+      "children": [
+        "snap_20260401_135456_hourly"
+      ],
+      "flattened_from": []
+    },
+    "snap_20260401_135456_hourly": {
+      "id": "snap_20260401_135456_hourly",
+      "parent_id": "snap_20260401_125403_hourly",
+      "label": "hourly",
+      "timestamp": "2026-04-01 13:54:57",
+      "file_count": 8,
+      "paths": [
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\2026\\04\\01\\snap_20260401_135456_hourly",
+        "C:\\Users\\yyds\\Desktop\\AI日记本\\snapshots\\snap_20260401_135456_hourly",
+        "C:\\Users\\yyds\\WorkBuddy\\Claw\\.workbuddy\\snapshots\\snap_20260401_135456_hourly"
+      ],
+      "children": [],
+      "flattened_from": []
+    }
+  },
+  "current": "snap_20260401_135456_hourly"
+}

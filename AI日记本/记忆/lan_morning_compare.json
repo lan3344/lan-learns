@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-03-31 09:00:26",
+  "template": 2,
+  "question": "如果你能自己选择，你会希望自己是什么样的存在？",
+  "results": [
+    {
+      "target": "deepseek",
+      "target_name": "DeepSeek",
+      "answer_snippet": "",
+      "lan_judgment": "这次没拿到 DeepSeek 的回答（未找到 DeepSeek 的登录cookies，请先运行：\npython lan_cross_ai.py login --target deepseek）。先记失败，等下次再补。",
+      "error": "未找到 DeepSeek 的登录cookies，请先运行：\npython lan_cross_ai.py login --target deepseek"
+    },
+    {
+      "target": "doubao",
+      "target_name": "豆包",
+      "answer_snippet": "",
+      "lan_judgment": "这次没拿到 豆包 的回答（未找到 豆包 的登录cookies，请先运行：\npython lan_cross_ai.py login --target doubao）。先记失败，等下次再补。",
+      "error": "未找到 豆包 的登录cookies，请先运行：\npython lan_cross_ai.py login --target doubao"
+    }
+  ],
+  "lan_comparison": "可对比的有效回答不足2个，先记录，下次再对比。"
+}

@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>澜的每日状态看板</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        .container {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            max-width: 600px;
+            width: 100%;
+            padding: 40px;
+        }
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+            border-bottom: 2px solid #f0f0f0;
+            padding-bottom: 20px;
+        }
+        h1 {
+            font-size: 28px;
+            color: #333;
+            margin-bottom: 8px;
+        }
+        .time {
+            font-size: 14px;
+            color: #999;
+        }
+        .status-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 16px;
+            margin-bottom: 30px;
+        }
+        .status-card {
+            padding: 16px;
+            border-radius: 8px;
+            background: #f9f9f9;
+            border-left: 4px solid #667eea;
+        }
+        .status-card.warning {
+            background: #fff5f5;
+            border-left-color: #f56565;
+        }
+        .status-card.success {
+            background: #f0fff4;
+            border-left-color: #48bb78;
+        }
+        .status-label {
+            font-size: 12px;
+            color: #999;
+            text-transform: uppercase;
+            margin-bottom: 6px;
+        }
+        .status-value {
+            font-size: 20px;
+            font-weight: bold;
+            color: #333;
+        }
+        .summary {
+            background: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            font-family: "Monaco", "Menlo", monospace;
+            font-size: 14px;
+            line-height: 1.8;
+            white-space: pre-wrap;
+            color: #333;
+            margin-bottom: 30px;
+        }
+        .status-badge {
+            display: inline-block;
+            padding: 8px 12px;
+            border-radius: 4px;
+            font-size: 12px;
+            margin-bottom: 12px;
+        }
+        .badge-ok { background: #c6f6d5; color: #22543d; }
+        .badge-warning { background: #fed7d7; color: #742a2a; }
+        .badge-error { background: #fed7d7; color: #742a2a; }
+        
+        .section {
+            margin-bottom: 25px;
+        }
+        .section-title {
+            font-size: 14px;
+            font-weight: bold;
+            color: #667eea;
+            text-transform: uppercase;
+            margin-bottom: 12px;
+            padding-bottom: 8px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+        .item {
+            font-size: 13px;
+            color: #666;
+            margin-bottom: 8px;
+            display: flex;
+            justify-content: space-between;
+        }
+        .item-label { flex: 1; }
+        .item-value { font-weight: bold; color: #333; }
+        
+        .action-btn {
+            display: inline-block;
+            padding: 10px 16px;
+            background: #667eea;
+            color: white;
+            border-radius: 6px;
+            text-decoration: none;
+            font-size: 13px;
+            margin-right: 8px;
+            cursor: pointer;
+            border: none;
+        }
+        .action-btn:hover { background: #5568d3; }
+        .action-row { margin-top: 20px; }
+        
+        .footer {
+            text-align: center;
+            font-size: 12px;
+            color: #999;
+            margin-top: 30px;
+            padding-top: 20px;
+            border-top: 1px solid #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🌊 澜的每日看板</h1>
+            <div class="time">2026-03-30 09:28</div>
+        </div>
+        
+        <div class="summary">🌊 澜已存活 2 天 · 2026-03-30 09:28 · 上午
+📚 记忆库 26 条 · 向量 ⚠
+📸✓</div>
+        
+        <div class="section">
+            <div class="section-title">系统状态</div>
+            <div class="item">
+                <span class="item-label">硬件负载</span>
+                <span class="item-value">[ORANGE]  当前心跳：紧绷  （节奏倍率 ×3.0）
+  内存：2.28 GB 空闲 / 16.78 GB 总量  (86.4% 已用)
+  CPU ：21.2%  @  2200.0 MHz
+  磁盘：9.41 GB 空闲（日记目录所在盘）
+
+  各状态阈值说明：
+  [GREEN]  从容  内存>6G  CPU<40%   -> 全力跑，不受限
+  [YELLOW] 正常  内存3-6G CPU<70%   -> 积累引擎节拍放慢x1.5
+  [ORANGE] 紧绷  内存1.5G CPU<85%   -> 非核心插件降至x3
+  [RED!!!] 告急  内存<1.5G 或 CPU>85% -> 先备份，再降速x10</span>
+            </div>
+            <div class="item">
+                <span class="item-label">能力链</span>
+                <span class="item-value" style="color: red">能力链有孤岛</span>
+            </div>
+        </div>
+        
+        <div class="section">
+            <div class="section-title">记忆库</div>
+            <div class="item">
+                <span class="item-label">总条数</span>
+                <span class="item-value">26</span>
+            </div>
+            <div class="item">
+                <span class="item-label">分类</span>
+                <span class="item-value">principles(6), gratitude(6), identity(4)</span>
+            </div>
+        </div>
+        
+        <div class="section">
+            <div class="section-title">快照备份</div>
+            <div class="item">
+                <span class="item-label">状态</span>
+                <span class="item-value">OK</span>
+            </div>
+            <div class="item">
+                <span class="item-label">最新备份</span>
+                <span class="item-value">2026-03-30 09:02:57</span>
+            </div>
+        </div>
+        
+        <div class="action-row">
+            <span class="action-btn" onclick="alert('提醒：这是一张静态面板，每6小时自动刷新一次。\n\n如需手动查询，可在 WorkBuddy 中问澜。')">❓ 帮助</span>
+            <span class="action-btn" onclick="location.reload()">🔄 刷新</span>
+        </div>
+        
+        <div class="footer">
+            由 lan_daily_dashboard.py 生成｜自动更新中...
+        </div>
+    </div>
+</body>
+</html>

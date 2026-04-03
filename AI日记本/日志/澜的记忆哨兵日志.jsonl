@@ -1,0 +1,1 @@
+{"ts": "2026-03-30 10:56:02", "level": "DANGER", "alerts": ["DIARY_OVERFLOW", "STALE_COMPACT"], "warns": [], "metrics": {"diary_lines": 1024, "memory_dir_mb": 0.19, "days_since_compact": 99.0, "route_keys": 21}}
